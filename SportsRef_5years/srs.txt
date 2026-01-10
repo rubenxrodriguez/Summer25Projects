@@ -1,0 +1,142 @@
+I have a folder called csv_files containing the SRS rankings of all D1 teams over the past 5 seasons
+
+I want to create a weighted average ranking. which looks at mean/median rank of each school
+
+potential issues are conference realignment and schools with partial data
+teams change conference somewhat frequently and the number of D1 schools changes from year to year from 2020 to 2024 the number of schools is  343, 356, 361, 360, 362.
+
+nevada (adidas), fresno state (adidas), saint louis (nike), uc davis, boise state (nike), bowling green (nike), 
+san diego state (jordan), liberty (VA) (nike), GCU (nike), VCU (nike), cincinnati (jordan), 
+temple (nike), toledo (nike), 
+
+Nevada, MW, 197, adidas, Reno (NV)
+Fresno State, 187, adidas, Fresno (CA)
+Delaware, 183, adidas, Newark (DE)
+George Mason, A10, 172, adidas,Fairfax (VA)
+Loyola Chicago, A10, 167, nike, Chicago (IL)
+Dayton, A10, 161, nike, Dayton (OH)
+Boise State, PAC12, 158, nike, Boise (ID)
+Cincinnati, BIG12, 154, jordan, Cincinnati (OH)
+UC Davis, Big West, 148, adidas, Davis (CA)
+SDSU, PAC12, 143, jordan, San Diego (CA)
+GCU, MW, 142, nike, Phoenix (AZ)
+Santa Clara, WCC, 133, nike, Santa Clara (CA)
+Butler, Big East, 132, nike, Indianapolis (IN)
+Bowling Green, MAC, 124, nike, Bowling Green (OH)
+Illinois State, MVC, 117, nike, Normal (IL)
+Temple, AAC, 115, Nike, Philadelphia (PA)
+VCU, A10, 113, nike, Richmond (VA)
+North Texas, AAC, 106, nike, Dallas (TX)
+Depaul, Big East, 70, nike, Chicago (IL)
+Toledo, MAC, 66, nike, Toledo (OH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hungary, Lithuania
+
+
+
+
+
+
+additive/mulitpicative/negative
+
+michael lewis
+no stat all star - shane battier
+
+producers/enablers
+
+enablers tend to be under-valued
+
+basketball requires more team synergy more than any other team sport. 
+what if you had information on every combination of player
+
+i know how to drive a car. i have no idea how everything under the hood of my car works. 
+analytics should enable a coach to drive
+
+basketball synergy
+
+how did the analytics reveal that sydni harris is more valuable
+
+what is the team effect of this person. 
+2 player combinations - who makes our star center better?
+
+stat to use is - point differential
+    goal is to maximize score separation
+
+producers and enablers 
+
+conclusions are only as good as data
+data:
+    which players come in and out and when
+    knowing what happens during the duration of them on the court
+
+136 5 player combinations
+look at the top 16 combinations based on time
+
+look at score differential per 40 minutes
+
+which 5 man groups are our best defensive lineup
+
+quantifying defense
+
+late game situations - last 5 minutes of games within 8 points.
+
+
+
+we got outshot in 23/28 games
+but we won 7 games in which we were outshot
+
+
+shooting quality
+shooting precision
+shooting quantity
+
+overall shooting percentage (quality) 86% time wins
+shooting quantity - shoot more, take care of the ball
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import os
+import pandas as pd 
+
+# 343, 356, 361, 360, 362
+
+file_path = "csv_files"
+for file in os.listdir(file_path):
+    if file.endswith(".csv"):
+        file_name = os.path.join(file_path,file)
+
+
+sorry, here is what the csv files look like
+so we might want to clear those empty columns
+Rk,School,Conf,,W,L,Pts,Opp,MOV,,SOS,,OSRS,DSRS,SRS,ORtg,DRtg,NRtg
+1,Stanford,Pac-12,,31,2,77.7,53.7,24.00,,18.26,,22.31,19.95,42.26,90.89,30.33,60.56
+2,Connecticut,Big East,,28,2,81.9,52.6,29.30,,9.57,,19.53,19.35,38.87,93.31,37.70,55.61
+3,Baylor,Big 12,,28,3,81.9,55.3,26.58,,11.74,,20.82,17.50,38.32,82.76,30.79,51.97
+4,Maryland,Big Ten,,26,3,90.8,69.0,21.79,,14.54,,29.39,6.95,36.34,102.79,50.93,51.86
+5,South Carolina,SEC,,26,5,75.4,58.1,17.29,,17.55,,16.83,18.01,34.84,83.48,32.82,50.67
+
+the name of the files are "20_21.csv", "21_22.csv"...."24_25.csv"

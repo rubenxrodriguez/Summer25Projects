@@ -1,0 +1,1676 @@
+{
+  "Abilene Christian": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "Air Force": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Akron": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Alabama": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Alabama A&M": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Alabama State": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Albany": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Albany (NY)": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Alcorn State": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "American": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Appalachian State": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Arizona": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Arizona State": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Arkansas": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Arkansas State": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Arkansas-Pine Bluff": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Army": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Auburn": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Austin Peay": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "BYU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Ball State": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Baylor": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Bellarmine": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Belmont": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Bethune-Cookman": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Binghamton": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Boise State": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Boston College": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Boston University": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Bowling Green": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Bowling Green State": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Bradley": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Brigham Young": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Brown": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Bryant": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Bucknell": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Buffalo": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Butler": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Cal Poly": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "Cal State Bakersfield": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "Cal State Fullerton": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "Cal State Northridge": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "California": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "California Baptist": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "Campbell": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Canisius": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Central Arkansas": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Central Connecticut": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Central Connecticut State": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Central Michigan": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Charleston": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Charleston Southern": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "Charlotte": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Chattanooga": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "Chicago State": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Cincinnati": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Clemson": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Cleveland State": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Coastal Carolina": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Colgate": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "College of Charleston": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Colorado": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Colorado State": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Columbia": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Connecticut": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Coppin State": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "Cornell": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Creighton": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Dartmouth": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Davidson": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Dayton": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "DePaul": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Delaware": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Delaware State": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "Denver": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "Detroit": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Detroit Mercy": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Dixie State": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Drake": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Drexel": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Duke": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Duquesne": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "East Carolina": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "East Tennessee State": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "East Texas A&M": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Eastern Illinois": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Eastern Kentucky": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Eastern Michigan": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Eastern Washington": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Elon": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Evansville": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "FAU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "FDU": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "FGCU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "FIU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Fairfield": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Fairleigh Dickinson": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Florida": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Florida A&M": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Florida Atlantic": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Florida Gulf Coast": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Florida International": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Florida State": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Fordham": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Fresno State": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Furman": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "Gardner-Webb": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "George Mason": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "George Washington": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Georgetown": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Georgia": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Georgia Southern": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Georgia State": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Georgia Tech": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Gonzaga": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Grambling": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Grambling State": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Grand Canyon": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "Green Bay": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Hampton": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Hartford": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Harvard": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Hawaii": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "High Point": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "Hofstra": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Holy Cross": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Houston": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Houston Baptist": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Houston Christian": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Howard": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "IU Indianapolis": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "IU Indy": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "IUPUI": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Idaho": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Idaho State": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Illinois": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Illinois State": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Illinois-Chicago": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Incarnate Word": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Indiana": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Indiana State": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Iona": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Iowa": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Iowa State": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Jackson State": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Jacksonville": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Jacksonville State": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "James Madison": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Kansas": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Kansas City": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "Kansas State": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Kennesaw State": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Kent State": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Kentucky": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "LSU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "La Salle": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Lafayette": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Lamar": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Le Moyne": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Lehigh": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Liberty": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Lindenwood": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Lipscomb": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Little Rock": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Long Beach State": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "Long Island": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Long Island University": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Longwood": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "Louisiana": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Louisiana State": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Louisiana Tech": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Louisiana-Monroe": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Louisville": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Loyola (IL)": {
+    "aliases": ["Loyola-Chicago"],
+    "conference": "A-10"
+  },
+  "Loyola (MD)": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Loyola Marymount": {
+    "aliases": [
+      "Loyola-Marymount","LMU"
+    ],
+    "conference": "WCC"
+  },
+  "Loyola-Chicago": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Loyola-Maryland": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Maine": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Manhattan": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Marist": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Marquette": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Marshall": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Maryland": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Maryland Eastern Shore": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Maryland-Baltimore County": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Maryland-Eastern Shore": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "Massachusetts": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Massachusetts-Lowell": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "McNeese": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "McNeese State": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Memphis": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Mercer": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "Mercyhurst": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Merrimack": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Miami (FL)": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Miami (OH)": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Michigan": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Michigan State": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Middle Tennessee": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Milwaukee": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Minnesota": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Mississippi": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Mississippi State": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Mississippi Valley State": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Missouri": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Missouri State": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Monmouth": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Montana": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Montana State": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Morehead State": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Morgan State": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "Mount Saint Mary's": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Mount St. Mary's": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Murray State": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "NC State": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "NJIT": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Navy": {
+    "aliases": [],
+    "conference": "Patriot"
+  },
+  "Nebraska": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Nevada": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Nevada-Las Vegas": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "New Hampshire": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "New Mexico": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "New Mexico State": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "New Orleans": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Niagara": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Nicholls": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Nicholls State": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Norfolk State": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "North Alabama": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "North Carolina": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "North Carolina A&T": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "North Carolina Central": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "North Carolina State": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "North Dakota": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "North Dakota State": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "North Florida": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "North Texas": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Northeastern": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Northern Arizona": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Northern Colorado": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Northern Illinois": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Northern Iowa": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Northern Kentucky": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Northwestern": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Northwestern State": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Notre Dame": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Oakland": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Ohio": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Ohio State": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Oklahoma": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Oklahoma State": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Old Dominion": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Ole Miss": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Omaha": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "Oral Roberts": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "Oregon": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Oregon State": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Pacific": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Penn": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Penn State": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Pennsylvania": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Pepperdine": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Pittsburgh": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Portland": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Portland State": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Prairie View": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Prairie View A&M": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Presbyterian": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "Presbyterian College": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Princeton": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Providence": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Purdue": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Purdue Fort Wayne": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Queens": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Queens (NC)": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Quinnipiac": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Radford": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "Rhode Island": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Rice": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Richmond": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Rider": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Robert Morris": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Rutgers": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "SIU Edwardsville": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "SIUE": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "SMU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Sacramento State": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "Sacred Heart": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Saint Bonaventure": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Saint Francis (NY)": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Saint Francis (PA)": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Saint John's": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Saint Joseph's": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Saint Louis": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Saint Mary's (CA)": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Saint Mary's College": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Saint Peter's": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "Saint Thomas": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Sam Houston": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Sam Houston State": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Samford": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "San Diego": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "San Diego State": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "San Francisco": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "San Jose State": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Santa Clara": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Seattle": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "Seattle University": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Seton Hall": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Siena": {
+    "aliases": [],
+    "conference": "MAAC"
+  },
+  "South Alabama": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "South Carolina": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "South Carolina State": {
+    "aliases": [],
+    "conference": "MEAC"
+  },
+  "South Carolina Upstate": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "South Dakota": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "South Dakota State": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "South Florida": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Southeast Missouri": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Southeast Missouri State": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Southeastern Louisiana": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Southern": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Southern California": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Southern Illinois": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Southern Indiana": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Southern Methodist": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Southern Miss": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Southern Mississippi": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Southern Utah": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "St. Bonaventure": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "St. Francis (NY)": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "St. John's (NY)": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "St. Thomas": {
+    "aliases": [],
+    "conference": "Summit"
+  },
+  "Stanford": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Stephen F. Austin": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Stetson": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "Stonehill": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Stony Brook": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Syracuse": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "TCU": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Tarleton State": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "Temple": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Tennessee": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Tennessee State": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Tennessee Tech": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Tennessee-Martin": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Texas": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Texas A&M": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Texas A&M-Commerce": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Texas A&M-Corpus Christi": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Texas Southern": {
+    "aliases": [],
+    "conference": "SWAC"
+  },
+  "Texas State": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Texas Tech": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Texas-Rio Grande Valley": {
+    "aliases": [],
+    "conference": "Southland"
+  },
+  "Toledo": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Towson": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Troy": {
+    "aliases": [],
+    "conference": "Sun Belt"
+  },
+  "Tulane": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Tulsa": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "UAB": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "UC Davis": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "UC Irvine": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "UC Riverside": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "UC San Diego": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "UC Santa Barbara": {
+    "aliases": [],
+    "conference": "Big West"
+  },
+  "UCF": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "UCLA": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "UIC": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "ULM": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UMBC": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UMKC": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UMass": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UMass-Lowell": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UNC Asheville": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "UNC Greensboro": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "UNC Wilmington": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "UNCG": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UNCW": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UNLV": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "USC": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UT Arlington": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "UTA": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UTEP": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "UTRGV": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "UTSA": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "Utah": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Utah State": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Utah Tech": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "Utah Valley": {
+    "aliases": [],
+    "conference": "WAC"
+  },
+  "VCU": {
+    "aliases": [],
+    "conference": "Unknown"
+  },
+  "Valparaiso": {
+    "aliases": [],
+    "conference": "MVC"
+  },
+  "Vanderbilt": {
+    "aliases": [],
+    "conference": "SEC"
+  },
+  "Vermont": {
+    "aliases": [],
+    "conference": "AEC"
+  },
+  "Villanova": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Virginia": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Virginia Commonwealth": {
+    "aliases": [],
+    "conference": "A-10"
+  },
+  "Virginia Tech": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Wagner": {
+    "aliases": [],
+    "conference": "NEC"
+  },
+  "Wake Forest": {
+    "aliases": [],
+    "conference": "ACC"
+  },
+  "Washington": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Washington State": {
+    "aliases": [],
+    "conference": "WCC"
+  },
+  "Weber State": {
+    "aliases": [],
+    "conference": "Big Sky"
+  },
+  "West Georgia": {
+    "aliases": [],
+    "conference": "A-Sun"
+  },
+  "West Virginia": {
+    "aliases": [],
+    "conference": "Big 12"
+  },
+  "Western Carolina": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "Western Illinois": {
+    "aliases": [],
+    "conference": "OVC"
+  },
+  "Western Kentucky": {
+    "aliases": [],
+    "conference": "CUSA"
+  },
+  "Western Michigan": {
+    "aliases": [],
+    "conference": "MAC"
+  },
+  "Wichita State": {
+    "aliases": [],
+    "conference": "AAC"
+  },
+  "William & Mary": {
+    "aliases": [],
+    "conference": "CAA"
+  },
+  "Winthrop": {
+    "aliases": [],
+    "conference": "Big South"
+  },
+  "Wisconsin": {
+    "aliases": [],
+    "conference": "Big Ten"
+  },
+  "Wofford": {
+    "aliases": [],
+    "conference": "Southern"
+  },
+  "Wright State": {
+    "aliases": [],
+    "conference": "Horizon"
+  },
+  "Wyoming": {
+    "aliases": [],
+    "conference": "MWC"
+  },
+  "Xavier": {
+    "aliases": [],
+    "conference": "Big East"
+  },
+  "Yale": {
+    "aliases": [],
+    "conference": "Ivy"
+  },
+  "Youngstown State": {
+    "aliases": [],
+    "conference": "Horizon"
+  }
+}
