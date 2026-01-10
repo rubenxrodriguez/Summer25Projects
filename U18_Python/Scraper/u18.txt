@@ -1,0 +1,56 @@
+
+convert height to inches
+
+school and conference strength over the past 5 seasons
+
+composite scores for best year and for Career
+
+clean up synergy instances for duplicates - keep the best
+
+scrape all the synergy pages
+cross reference sports-reference with the understanding that it is not going to pick up all of them 
+    so i'll just have to keep track of who isn't picked up
+    so players with the threshold PPP and U18 PTS/G might just have to be double checked
+
+*** i need code to scrape sports-reference and keep the career stats
+
+in order to have NET rankings get mapped accordingly i need a dictionary for conference and team names from NET to SportsRef
+
+
+recall the plan to cross-reference the synergy u18 stats with sports-reference in order to grab ncaa stats
+well we can scrape career stats pretty easily using : 
+    from selenium import webdriver
+    from selenium.webdriver.common.by import By
+    import pandas as pd
+    import time
+    import numpy as np
+
+    driver = webdriver.Chrome()
+    driver.get("https://www.sports-reference.com/cbb/players/tayla-dalton-1.html")
+    time.sleep(2)
+
+    table = driver.find_elements(By.ID, "switcher_players_per_game")
+    rows = table[0].text.split("\n")
+    print(rows)
+    time.sleep(2)
+
+it looks like this : 
+    ['Season Team Conf Class Pos G GS MP FG FGA FG% 3P 3PA 3P% 2P 2PA 2P% eFG% FT FTA FT% ORB DRB TRB AST STL BLK TOV PF PTS Awards', 
+'2021-22 Kansas Big 12 FR G 9 0 6.9 0.6 1.7 .333 0.1 0.8 .143 0.4 0.9 .500 .367 0.3 0.4 .750 0.0 0.9 0.9 0.3 0.1 0.0 0.3 0.4 1.6',
+ '2022-23 Kansas Big 12 SO G 36 8 16.3 0.8 3.2 .246 0.6 2.1 .299 0.1 1.0 .135 .346 0.4 0.6 .667 0.1 1.7 1.8 0.8 0.5 0.0 1.1 1.0 2.6', 
+ '2023-24 Colorado State MWC JR G 31 26 26.1 2.3 5.6 .402 1.0 2.6 .366 1.3 3.0 .435 .489 0.8 1.0 .800 0.3 3.2 3.5 1.7 0.3 0.3 1.4 1.5 6.3', 
+ '2024-25 Colorado State MWC SR G 13 11 26.5 2.3 5.5 .423 1.2 3.7 .333 1.1 1.8 .609 .535 0.8 1.1 .714 0.2 4.2 4.4 2.1 0.5 0.3 0.4 2.5 6.6', 
+ 'Career 89 45 20.3 1.5 4.2 .356 0.8 2.4 .327 0.7 1.8 .394 .449 0.6 0.8 .739 0.2 2.5 2.7 1.2 0.4 0.1 1.0 1.3 4.3',
+  'Colorado State (2 Yrs) 44 37 26.2 2.3 5.6 .408 1.0 3.0 .354 1.2 2.6 .470 .502 0.8 1.0 .773 0.3 3.5 3.8 1.8 0.3 0.3 1.1 1.8 6.4',
+   'Kansas (2 Yrs) 45 8 14.4 0.7 2.9 .256 0.5 1.9 .286 0.2 1.0 .200 .349 0.4 0.6 .680 0.1 1.5 1.6 0.7 0.4 0.0 1.0 0.9 2.4']
+
+and the fiba stats look like : 
+NAME,GP,ROLE,COUNTRY,FIBA_CLASS,FIBA_YEAR,SCRAPE_TIMESTAMP,POSS,PTS,PPP,AST,TO,FG%,3FG_ATT,3FG%,EFG%,TOT_REB,FT_ATT,FT%,STL_BLK,AST_TO
+Saffron Shiels,5,Scoring ball handler,Australia,U18,2024,2025-05-27 11:30:41.764527,19.4,18.6,0.959,3.6,3.6,53.6%,2.4,33.3%,56.5%,11.4,5.0,60.0%,0.8,1.00
+Lara Somfai,5,Slashing wing,Australia,U18,2024,2025-05-27 11:30:41.782407,18.8,17.0,0.904,2.2,3.2,49.3%,4.2,19.0%,52.0%,10.8,2.0,70.0%,1.8,0.69
+
+so the framework should be look up players from fiba stats on sports-reference and i'll get the ncaa stats 
+the stats i really care about from FIBA are PTS,PPP, STL_BLK and PER (which has to be a custom all-in-one metric from the rest of the stats)
+and then we'll need to calculate PER for each season of NCAA and Career NCAA. I only care about PTS/G_best, PER_best, STL_BLK_best, PTS/G_career, PER_career, STL_BLK_career
+
+start with the scraper above. assume i already have synergy_australia.csv . how do i go through and search each player, scrape and parse their stats.

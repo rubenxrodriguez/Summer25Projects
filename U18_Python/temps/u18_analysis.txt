@@ -1,0 +1,66 @@
+w
+i have 3 csv files. the database has u18 stats, the overall goal is to quantify how well u18 performance translated to D1. I want a composite score based on D1 PPG, Strength of School, and Strength of conference.
+First step might be to clean the data to handle nan]
+Second step should be to add weights to conference.
+but essentially for conferences, i think power 4 should stay together. then i think the rest of the conferences should be split up into 3 groups. 
+
+Third step should be to add weights for team strength. so data.csv should probably be split up into 7 or so groups based on rank. 
+
+Things to consider : i might want to play around with and/or adjust weights when necessary. There are players who's D1 Season is 25-26, meaning they haven't played yet. They should still have a composite score based on how strong a team/conference they made it to. lastly, i might want to add u18 pts/g and ppp (u18 stats) to the composite score, but I'd want it to be weighted very very lightly.
+
+
+u18_database.csv
+,Player,Synergy Role,Height,U18 Season,PTS/G,PPP,D1 Conference,D1 School(s),D1 Season,D1 PPG,Country
+,Lydia Chatira,Playmaking Ball Handler,600,2023,10,0.789,Ivy,Harvard,25-26,TBD,Greece
+,Caterina Piatti,Post-Up Big,604,2023,7,0.662,ACC,Florida,25-26,TBD,Italy
+, Praise Egharevba,-,603,2021,4,0.75,Big 12,Oklahoma,25-26,TBD,Germany
+,Laura Di Stefano,-,602,2022,2,0.737,AAC,Tulsa,25-26,TBD,Italy
+,Bonnie Deas,Slashing Wing,509,2024,14,1.02,SEC,Arkansas,25-26,TBD,Australia
+, Lara Somfai,Slashing Wing,604,2024,17,0.904,ACC,Stanford,25-26,TBD,Australia
+, Sienna Harvey,Scoring Ball Handler,509,2024,8,0.78,BIG 10,Washington,25-26,TBD,Australia
+,Hanna Kajevic,Playmaking Ball Handler,507,2023,10,0.71,MAC,Cleveland St,25-26,TBD,Sweden
+
+
+data.csv:
+"Rank","Previous","School","Conference","Record","Road","Neutral","Home","Quad 1","Quad 2","Quad 3","Quad 4"
+"1","1","UConn","Big East","37-3","10-2","12-0","15-1","10-3","7-0","10-0","10-0"
+"2","2","South Carolina","SEC","35-4","8-2","11-1","16-1","19-4","5-0","3-0","8-0"
+"3","3","Texas","SEC","35-4","10-2","8-2","17-0","16-4","5-0","4-0","10-0"
+"4","5","Notre Dame","ACC","28-6","11-1","1-4","16-1","7-6","8-0","5-0","8-0"
+"5","4","UCLA","Big Ten","34-3","10-1","10-1","14-1","16-3","5-0","3-0","10-0"
+"6","6","Southern California","Big Ten","31-4","9-1","6-2","16-1","14-4","4-0","4-0","9-0"
+"7","7","Duke","ACC","29-8","8-6","6-1","15-1","10-6","9-2","5-0","5-0"
+
+net_conference_full2.csv:
+Conference   , min, max, q1   , median, q3   , mean , iqr
+SEC          ,   2, 136,  11.8,   20.5,  65.2,  42.5,  53.5
+Big Ten      ,   5, 137,  24.2,   35.5,  76.2,  50.9,  52.0
+ACC          ,   4, 135,  25.0,   48.5,  80.8,  56.1,  55.8
+Big 12       ,   8, 178,  24.2,   58.5,  87.2,  63.8,  63.0
+Big East     ,   1, 247,  63.0,   75.0, 127.5,  96.0,  64.5
+MVC          ,  51, 338,  69.5,  132.5, 235.2, 162.6, 165.8
+The American ,  77, 250, 101.0,  138.0, 190.0, 149.0,  89.0
+Mountain West,  49, 302,  97.0,  156.0, 205.5, 164.1, 108.5
+Atlantic 10  ,  32, 336, 102.0,  159.0, 218.5, 164.7, 116.5
+MAC          ,  66, 334, 116.0,  170.0, 268.0, 193.8, 152.0
+Ivy League   ,  38, 329,  45.0,  173.5, 269.0, 171.2, 224.0
+WCC          ,  80, 283, 122.0,  179.0, 218.5, 175.6,  96.5
+Patriot      , 110, 356, 161.8,  184.5, 297.2, 221.6, 135.5
+WAC          ,  58, 344, 166.0,  189.0, 299.0, 219.8, 133.0
+Sun Belt     ,  60, 308, 151.8,  194.5, 223.8, 188.1,  72.0
+Big Sky      ,  55, 317, 160.8,  199.5, 212.5, 185.4,  51.8
+CUSA         ,  54, 275, 118.0,  208.0, 253.8, 184.1, 135.8
+SoCon        , 143, 323, 173.8,  211.5, 259.0, 220.2,  85.2
+OVC          , 131, 330, 169.5,  213.0, 307.0, 231.4, 137.5
+Southland    ,  90, 337, 177.8,  222.0, 296.2, 221.2, 118.5
+Big West     , 145, 350, 169.5,  223.0, 292.5, 236.2, 123.0
+Summit League,  43, 272, 132.0,  225.0, 257.0, 193.3, 125.0
+ASUN         ,  62, 341, 184.0,  237.0, 278.5, 232.2,  94.5
+CAA          ,  96, 358, 217.2,  257.0, 275.2, 241.8,  58.0
+America East ,  94, 346, 221.0,  264.0, 296.0, 242.7,  75.0
+MAAC         ,  57, 353, 217.0,  265.0, 310.0, 251.0,  93.0
+Horizon      ,  70, 307, 175.0,  266.0, 294.5, 227.5, 119.5
+MEAC         ,  78, 362, 190.5,  273.5, 345.2, 257.5, 154.8
+SWAC         , 181, 354, 274.2,  301.0, 342.2, 293.9,  68.0
+Big South    , 205, 355, 305.0,  321.0, 348.0, 307.3,  43.0
+NEC          , 165, 360, 335.0,  345.0, 357.0, 326.1,  22.0

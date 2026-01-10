@@ -1,0 +1,272 @@
+i'm having multiple issues with my code. first of all. i can't read in team names the way im doing it because some team names are longer than one word.
+to solve that issue i need to read in 'composite_srs_rankings2.csv' that looks like: team,mean_rank,median_rank,most_common_conference,rank_stability
+South Carolina,2.0,1.0,SEC,1.7
+Connecticut,2.2,2.0,Big East,1.1
+Texas,8.0,4.0,Big 12,8.0
+UCLA,12.6,6.0,Pac-12,14.8
+Notre Dame,16.0,8.0,ACC,18.1
+
+the second issue im having is that sports-reference is being very annoying. when i look at per game stats instead of saying "career" its says the first season.
+this is what the table looks like. i want to pull career stats, so in this case  the career stats would be the 7th row (the second instance of 2020-21)
+
+Season,Team,Conf,Class,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Awards
+2020-21,North Carolina,ACC,FR,G,24,23,28.7,3.5,10.8,.329,1.1,3.7,.307,2.4,7.1,.341,.382,2.8,3.5,.810,0.3,2.0,2.3,2.9,0.8,0.0,1.9,1.8,11.0,
+2021-22,North Carolina,ACC,SO,G,32,32,31.9,5.3,14.6,.366,1.6,4.5,.361,3.7,10.1,.368,.422,4.2,4.8,.858,0.4,3.3,3.6,2.6,1.4,0.2,2.2,1.7,16.5,
+2022-23,North Carolina,ACC,JR,G,32,32,35.3,5.6,15.0,.373,1.0,3.6,.281,4.6,11.4,.402,.406,4.3,5.9,.721,0.5,3.4,3.9,3.2,1.3,0.2,2.4,2.2,16.5,
+2023-24,North Carolina,ACC,SR,G,33,33,36.1,5.2,15.0,.346,1.0,3.6,.286,4.2,11.4,.365,.381,4.9,7.1,.694,0.5,3.4,3.9,3.2,1.4,0.3,2.7,2.5,16.3,
+2024-25,Oregon,Big Ten,SR,G,32,32,31.8,4.8,12.3,.386,0.5,2.0,.238,4.3,10.3,.414,.405,2.2,3.1,.714,0.5,3.9,4.3,3.3,1.5,0.1,1.9,2.1,12.2,
+2020-21,2020-21,2020-21,2020-21,,153,152,33.0,5.0,13.7,.362,1.0,3.5,.303,3.9,10.2,.382,.400,3.7,5.0,.749,0.4,3.3,3.7,3.0,1.3,0.2,2.2,2.1,14.7,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023-24,2023-24,2023-24,2023-24,,121,120,33.3,5.0,14.0,.357,1.2,3.8,.312,3.8,10.2,.374,.399,4.1,5.5,.755,0.4,3.1,3.5,3.0,1.2,0.2,2.3,2.0,15.4,
+2024-25,2024-25,2024-25,2024-25,,32,32,31.8,4.8,12.3,.386,0.5,2.0,.238,4.3,10.3,.414,.405,2.2,3.1,.714,0.5,3.9,4.3,3.3,1.5,0.1,1.9,2.1,12.2,
+
+so help me fix this. and explain what the possible solutions were. 
+
+
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+import numpy as np
+
+# Load FIBA data
+fiba_df = pd.read_csv("csv_files/synergy_australia copy.csv")
+
+# Initialize browser
+driver = webdriver.Chrome()
+driver.get("https://www.sports-reference.com/cbb/")
+wait = WebDriverWait(driver, 10)
+
+# Storage for results
+ncaa_stats = []
+
+def calculate_per(row):
+    """Calculate Player Efficiency Rating (simplified)"""
+    return ((row['PTS'] + row['AST'] + row['TRB'] + row['STL'] + row['BLK'] - 
+             row['TOV'] - (row['FGA'] - row['FG']) - (row['FTA'] - row['FT'])) / 
+            row['G'])
+
+for _, player in fiba_df.iterrows():
+    try:
+        # Format search URL (Sports-Reference uses hyphenated names)
+        search_name = player['NAME'].lower().replace(" ", "-")
+        search_url = f"https://www.sports-reference.com/cbb/players/{search_name}-1.html"
+        
+        driver.get(search_url)
+        time.sleep(2)  # Be polite with delays
+        
+        # Check if page exists
+        if "Page Not Found" in driver.title:
+            print(f"No page found for {player['NAME']}")
+            continue
+            
+        # Extract career stats
+        table = wait.until(EC.presence_of_element_located((By.ID, "players_per_game")))
+        rows = table.text.split("\n")
+        
+        # Parse table
+        headers = rows[0].split()
+        career_data = {}
+        
+        for row in rows[1:]:
+            if row.startswith('Career'):
+                career_stats = dict(zip(headers[4:], row.split()))
+                career_data = {
+                    'Player': player['NAME'],
+                    'PTS/G_career': float(career_stats['PTS']),
+                    'STL_BLK_career': float(career_stats['STL']) + float(career_stats['BLK']),
+                    'G_career': int(career_stats['G'])
+                }
+                
+                # Calculate PER
+                career_data['PER_career'] = calculate_per({
+                    'PTS': float(career_stats['PTS'])*int(career_stats['G']),
+                    'AST': float(career_stats['AST'])*int(career_stats['G']),
+                    'TRB': float(career_stats['TRB'])*int(career_stats['G']),
+                    'STL': float(career_stats['STL'])*int(career_stats['G']),
+                    'BLK': float(career_stats['BLK'])*int(career_stats['G']),
+                    'TOV': float(career_stats['TOV'])*int(career_stats['G']),
+                    'FG': float(career_stats['FG'])*int(career_stats['G']),
+                    'FGA': float(career_stats['FGA'])*int(career_stats['G']),
+                    'FT': float(career_stats['FT'])*int(career_stats['G']),
+                    'FTA': float(career_stats['FTA'])*int(career_stats['G']),
+                    'G': int(career_stats['G'])
+                })
+                
+        # Find best season stats
+        best_season = max(rows[1:-1], key=lambda x: float(x.split()[-1]))
+        best_stats = dict(zip(headers, best_season.split()))
+        
+        career_data.update({
+            'PTS/G_best': float(best_stats['PTS']),
+            'STL_BLK_best': float(best_stats['STL']) + float(best_stats['BLK']),
+            'PER_best': calculate_per({
+                'PTS': float(best_stats['PTS'])*int(best_stats['G']),
+                'AST': float(best_stats['AST'])*int(best_stats['G']),
+                'TRB': float(best_stats['TRB'])*int(best_stats['G']),
+                'STL': float(best_stats['STL'])*int(best_stats['G']),
+                'BLK': float(best_stats['BLK'])*int(best_stats['G']),
+                'TOV': float(best_stats['TOV'])*int(best_stats['G']),
+                'FG': float(best_stats['FG'])*int(best_stats['G']),
+                'FGA': float(best_stats['FGA'])*int(best_stats['G']),
+                'FT': float(best_stats['FT'])*int(best_stats['G']),
+                'FTA': float(best_stats['FTA'])*int(best_stats['G']),
+                'G': int(best_stats['G'])
+            })
+        })
+        
+        ncaa_stats.append(career_data)
+        print(f"Scraped {player['NAME']} successfully")
+        
+    except Exception as e:
+        print(f"Error processing {player['NAME']}: {str(e)}")
+        continue
+
+driver.quit()
+
+# Merge with FIBA data
+final_df = pd.merge(
+    fiba_df, 
+    pd.DataFrame(ncaa_stats),
+    left_on='NAME',
+    right_on='Player',
+    how='left'
+).drop('Player', axis=1)
+
+# Save results
+final_df.to_csv('fiba_ncaa_merged.csv', index=False)
+print("Scraping complete! Saved to fiba_ncaa_merged.csv")
+
+
+
+
+
+okay we need to figure better parse the best_season stats
+this is what the variable best_season looks like : 
+'2023-24 Santa Clara WCC SO G 34 34 32.1 6.5 14.1 .462 0.9 2.5 .353 5.6 11.6 .486 .494 5.6 6.4 .872 1.0 2.9 3.9 4.9 0.9 0.3 3.9 1.8 19.5'
+the issue is the team name Santa Clara being two words. so we need to reference 'composite_srs_rankings2.csv' 
+that csv has all the team names and looks like this : 
+team,mean_rank,median_rank,most_common_conference,rank_stability
+South Carolina,2.0,1.0,SEC,1.7
+Connecticut,2.2,2.0,Big East,1.1
+Texas,8.0,4.0,Big 12,8.0
+UCLA,12.6,6.0,Pac-12,14.8
+Notre Dame,16.0,8.0,ACC,18.1
+
+note that some team names are 3 or 4 words long. but the team names are pulled from the same source as where we are scraping from so it will be consistent.
+
+how do we fix this?
+
+# Load FIBA data
+fiba_df = pd.read_csv("csv_files/synergy_australia copy.csv")
+
+# Initialize browser
+driver = webdriver.Chrome()
+driver.get("https://www.sports-reference.com/cbb/")
+wait = WebDriverWait(driver, 10)
+
+# Storage for results
+ncaa_stats = []
+
+def calculate_per(row):
+    """Calculate Player Efficiency Rating (simplified)"""
+    return ((row['PTS'] + row['AST'] + row['TRB'] + row['STL'] + row['BLK'] - 
+             row['TOV'] - (row['FGA'] - row['FG']) - (row['FTA'] - row['FT'])) / 
+            row['G'])
+
+for _, player in fiba_df.iterrows():
+    try:
+        # Format search URL (Sports-Reference uses hyphenated names)
+        search_name = player['NAME'].lower().replace(" ", "-")
+        search_url = f"https://www.sports-reference.com/cbb/players/{search_name}-1.html"
+        
+        driver.get(search_url)
+        time.sleep(2)  # Be polite with delays
+        
+        # Check if page exists
+        if "Page Not Found" in driver.title:
+            print(f"No page found for {player['NAME']}")
+            continue
+            
+        # Extract career stats
+        table = wait.until(EC.presence_of_element_located((By.ID, "players_per_game")))
+        rows = table.text.split("\n")
+        
+        # Parse table
+        headers = rows[0].split()
+        career_data = {}
+        
+        
+        for row in rows[1:]:
+            cols = row.split()
+            if len(cols)>1 and cols [0] == cols[1]:
+                stats = cols
+                headers_trimmed = headers[0] + headers[5:]
+                career_stats = dict(zip(headers_trimmed,stats))
+                career_data = {
+                    'Player': player['NAME'],
+                    'PTS/G_career': float(career_stats['PTS']),
+                    'STL_BLK_career': float(career_stats['STL']) + float(career_stats['BLK']),
+                    'G_career': int(career_stats['G'])
+                }
+                
+                # Calculate PER
+                career_data['PER_career'] = calculate_per({
+                    'PTS': float(career_stats['PTS'])*int(career_stats['G']),
+                    'AST': float(career_stats['AST'])*int(career_stats['G']),
+                    'TRB': float(career_stats['TRB'])*int(career_stats['G']),
+                    'STL': float(career_stats['STL'])*int(career_stats['G']),
+                    'BLK': float(career_stats['BLK'])*int(career_stats['G']),
+                    'TOV': float(career_stats['TOV'])*int(career_stats['G']),
+                    'FG': float(career_stats['FG'])*int(career_stats['G']),
+                    'FGA': float(career_stats['FGA'])*int(career_stats['G']),
+                    'FT': float(career_stats['FT'])*int(career_stats['G']),
+                    'FTA': float(career_stats['FTA'])*int(career_stats['G']),
+                    'G': int(career_stats['G'])
+                })
+                
+        # Find best season stats
+        best_season = max(rows[1:-1], key=lambda x: float(x.split()[-1]))
+        best_stats = dict(zip(headers, best_season.split()))
+        
+        career_data.update({
+            'PTS/G_best': float(best_stats['PTS']),
+            'STL_BLK_best': float(best_stats['STL']) + float(best_stats['BLK']),
+            'PER_best': calculate_per({
+                'PTS': float(best_stats['PTS'])*int(best_stats['G']),
+                'AST': float(best_stats['AST'])*int(best_stats['G']),
+                'TRB': float(best_stats['TRB'])*int(best_stats['G']),
+                'STL': float(best_stats['STL'])*int(best_stats['G']),
+                'BLK': float(best_stats['BLK'])*int(best_stats['G']),
+                'TOV': float(best_stats['TOV'])*int(best_stats['G']),
+                'FG': float(best_stats['FG'])*int(best_stats['G']),
+                'FGA': float(best_stats['FGA'])*int(best_stats['G']),
+                'FT': float(best_stats['FT'])*int(best_stats['G']),
+                'FTA': float(best_stats['FTA'])*int(best_stats['G']),
+                'G': int(best_stats['G'])
+            })
+        })
+        
+        ncaa_stats.append(career_data)
+        print(f"Scraped {player['NAME']} successfully")
+        
+    except Exception as e:
+        print(f"Error processing {player['NAME']}: {str(e)}")
+        continue
+
+driver.quit()
+
+# Merge with FIBA data
+final_df = pd.merge(
+    fiba_df, 
+    pd.DataFrame(ncaa_stats),
+    left_on='NAME',
+    right_on='Player',
+    how='left'
+).drop('Player', axis=1)
+
+# Save results
+final_df.to_csv('fiba_ncaa_merged.csv', index=False)
+print("Scraping complete! Saved to fiba_ncaa_merged.csv")
