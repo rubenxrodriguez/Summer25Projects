@@ -1,0 +1,87 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,allison clarke,AC,EOG,27.93,1,4,0,1,0,0,2,0,1,1,0,0,0,1,1,20251221
+LMU,True,allison clarke,AC,Q1,6.9,1,2,0,1,0,0,2,0,1,1,0,0,0,0,0,20251221
+LMU,True,allison clarke,AC,Q2,4.25,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,20251221
+LMU,True,andjela matic,AM,EOG,33.43,3,7,1,3,3,3,10,0,3,3,0,0,0,2,5,20251221
+LMU,True,andjela matic,AM,Q1,5.22,2,2,1,1,0,0,5,0,1,1,0,0,0,0,0,20251221
+LMU,True,andjela matic,AM,Q2,8.22,1,2,0,1,3,3,5,0,1,1,0,0,0,0,2,20251221
+LMU,True,andjela matic,AM,Q3,10.0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,2,20251221
+LMU,True,andjela matic,AM,Q4,10.0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,20251221
+LMU,True,carly heidger,CH,EOG,27.32,3,6,0,3,0,0,6,1,0,1,0,0,0,0,3,20251221
+LMU,True,carly heidger,CH,Q1,5.32,2,2,0,0,0,0,4,0,0,0,0,0,0,0,0,20251221
+LMU,True,carly heidger,CH,Q2,7.58,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251221
+LMU,True,carly heidger,CH,Q3,6.13,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,20251221
+LMU,True,carly heidger,CH,Q4,8.28,1,2,0,1,0,0,2,1,0,1,0,0,0,0,1,20251221
+LMU,True,ivana krajina,IK,EOG,31.18,2,7,0,1,5,6,9,0,2,2,0,0,0,1,6,20251221
+LMU,True,ivana krajina,IK,Q1,5.73,1,2,0,0,0,0,2,0,0,0,0,0,0,1,0,20251221
+LMU,True,ivana krajina,IK,Q2,8.65,0,1,0,0,1,2,1,0,0,0,0,0,0,0,2,20251221
+LMU,True,ivana krajina,IK,Q3,6.8,1,2,0,1,0,0,2,0,0,0,0,0,0,0,1,20251221
+LMU,True,ivana krajina,IK,Q4,10.0,0,2,0,0,4,4,4,0,2,2,0,0,0,0,3,20251221
+LMU,True,jess lawson,JL,EOG,29.33,3,6,0,0,11,12,17,2,5,7,0,0,0,1,9,20251221
+LMU,True,jess lawson,JL,Q1,4.17,2,2,0,0,1,2,5,0,0,0,0,0,0,0,2,20251221
+LMU,True,jess lawson,JL,Q2,8.3,0,1,0,0,6,6,6,2,1,3,0,0,0,0,3,20251221
+LMU,True,jess lawson,JL,Q3,8.42,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251221
+LMU,True,jess lawson,JL,Q4,8.45,1,3,0,0,4,4,6,0,3,3,0,0,0,1,4,20251221
+LMU,True,kayla jones,KJ,EOG,9.52,3,3,0,0,0,0,6,1,0,1,0,0,0,1,0,20251221
+LMU,True,kayla jones,KJ,Q1,4.17,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251221
+LMU,True,kayla jones,KJ,Q3,3.22,2,2,0,0,0,0,4,1,0,1,0,0,0,1,0,20251221
+LMU,True,maya hernandez,MH,EOG,23.77,4,11,0,1,3,5,11,0,5,5,0,0,0,1,8,20251221
+LMU,True,maya hernandez,MH,Q1,3.77,0,2,0,0,1,2,1,0,0,0,0,0,0,0,1,20251221
+LMU,True,maya hernandez,MH,Q2,7.87,0,2,0,0,0,0,0,0,2,2,0,0,0,1,2,20251221
+LMU,True,maya hernandez,MH,Q3,5.48,2,4,0,0,0,0,4,0,1,1,0,0,0,0,1,20251221
+LMU,True,maya hernandez,MH,Q4,6.65,2,3,0,1,2,3,6,0,2,2,0,0,0,0,4,20251221
+LMU,True,paula reus piza,PR,EOG,24.9,3,7,1,3,4,4,11,1,5,6,0,0,0,1,2,20251221
+LMU,True,paula reus piza,PR,Q1,4.67,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251221
+LMU,True,paula reus piza,PR,Q2,10.0,0,1,0,1,0,0,0,0,2,2,0,0,0,0,0,20251221
+LMU,True,paula reus piza,PR,Q3,5.17,3,4,1,1,0,0,7,0,0,0,0,0,0,0,0,20251221
+LMU,True,paula reus piza,PR,Q4,5.07,0,2,0,1,4,4,4,1,2,3,0,0,0,0,2,20251221
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,3,3,6,0,0,0,0,0,20251221
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251221
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20251221
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251221
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251221
+LMU,True,zawadi ogot,ZO,EOG,8.42,2,3,0,0,0,0,4,1,1,2,0,0,0,0,3,20251221
+LMU,True,zawadi ogot,ZO,Q1,4.03,1,1,0,0,0,0,2,1,1,2,0,0,0,0,1,20251221
+LMU,True,zawadi ogot,ZO,Q2,1.7,1,2,0,0,0,0,2,0,0,0,0,0,0,0,1,20251221
+LMU,True,zawadi ogot,ZO,Q3,1.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251221
+Southern Utah,False,ashley banks,,EOG,26.53,3,5,0,0,0,0,6,2,7,9,0,0,0,3,4,20251221
+Southern Utah,False,ashley banks,,Q1,6.73,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,20251221
+Southern Utah,False,ashley banks,,Q2,8.3,3,4,0,0,0,0,6,2,3,5,0,0,0,0,0,20251221
+Southern Utah,False,ashley banks,,Q3,4.27,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251221
+Southern Utah,False,ashley banks,,Q4,7.23,0,1,0,0,0,0,0,0,2,2,0,0,0,1,3,20251221
+Southern Utah,False,ava uhrich,,EOG,32.53,10,15,2,4,4,5,26,1,7,8,0,0,0,2,10,20251221
+Southern Utah,False,ava uhrich,,Q1,8.78,1,3,0,1,0,0,2,1,3,4,0,0,0,1,0,20251221
+Southern Utah,False,ava uhrich,,Q2,5.72,2,4,1,2,0,0,5,0,1,1,0,0,0,0,5,20251221
+Southern Utah,False,ava uhrich,,Q3,8.03,3,3,0,0,2,2,8,0,0,0,0,0,0,1,3,20251221
+Southern Utah,False,ava uhrich,,Q4,10.0,4,5,1,1,2,3,11,0,3,3,0,0,0,0,2,20251221
+Southern Utah,False,bella hasan,,EOG,6.8,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,20251221
+Southern Utah,False,bella hasan,,Q1,1.42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251221
+Southern Utah,False,bella hasan,,Q2,5.38,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,20251221
+Southern Utah,False,denver anderson,,EOG,11.17,0,2,0,2,0,0,0,0,2,2,0,0,0,0,3,20251221
+Southern Utah,False,denver anderson,,Q2,4.28,0,2,0,2,0,0,0,0,2,2,0,0,0,0,0,20251221
+Southern Utah,False,denver anderson,,Q4,2.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,20251221
+Southern Utah,False,devyn kiernan,,EOG,34.72,2,7,2,5,0,0,6,0,0,0,0,0,0,3,2,20251221
+Southern Utah,False,devyn kiernan,,Q1,8.02,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,20251221
+Southern Utah,False,devyn kiernan,,Q2,10.0,1,1,1,1,0,0,3,0,0,0,0,0,0,1,1,20251221
+Southern Utah,False,devyn kiernan,,Q3,9.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251221
+Southern Utah,False,devyn kiernan,,Q4,7.35,1,4,1,2,0,0,3,0,0,0,0,0,0,0,0,20251221
+Southern Utah,False,kortney doman,,EOG,34.07,1,5,0,2,1,3,3,2,3,5,0,0,0,2,7,20251221
+Southern Utah,False,kortney doman,,Q1,4.22,0,1,0,1,0,0,0,2,0,2,0,0,0,2,0,20251221
+Southern Utah,False,kortney doman,,Q2,10.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,3,20251221
+Southern Utah,False,kortney doman,,Q3,10.0,1,2,0,0,1,2,3,0,1,1,0,0,0,0,0,20251221
+Southern Utah,False,kortney doman,,Q4,9.85,0,2,0,1,0,0,0,0,1,1,0,0,0,0,4,20251221
+Southern Utah,False,morgan trigueiro,,EOG,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251221
+Southern Utah,False,morgan trigueiro,,Q4,2.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251221
+Southern Utah,False,olivia malafu,,EOG,9.58,3,4,0,0,1,2,7,0,0,0,0,0,0,0,1,20251221
+Southern Utah,False,olivia malafu,,Q1,3.25,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251221
+Southern Utah,False,olivia malafu,,Q2,1.7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251221
+Southern Utah,False,olivia malafu,,Q3,4.63,2,2,0,0,1,2,5,0,0,0,0,0,0,0,1,20251221
+Southern Utah,False,sierra chambers,,EOG,36.65,7,14,4,7,2,4,20,0,1,1,0,0,0,4,8,20251221
+Southern Utah,False,sierra chambers,,Q1,9.62,3,5,1,2,0,0,7,0,0,0,0,0,0,2,3,20251221
+Southern Utah,False,sierra chambers,,Q2,7.03,0,1,0,0,1,2,1,0,1,1,0,0,0,1,1,20251221
+Southern Utah,False,sierra chambers,,Q3,10.0,3,4,2,2,0,0,8,0,0,0,0,0,0,1,2,20251221
+Southern Utah,False,sierra chambers,,Q4,10.0,1,4,1,3,1,2,4,0,0,0,0,0,0,0,2,20251221
+Southern Utah,False,team,,EOG,0.0,0,0,0,0,0,0,0,4,5,9,0,0,0,1,0,20251221
+Southern Utah,False,team,,Q2,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251221
+Southern Utah,False,team,,Q3,0.0,0,0,0,0,0,0,0,2,3,5,0,0,0,0,0,20251221
+Southern Utah,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,1,0,20251221

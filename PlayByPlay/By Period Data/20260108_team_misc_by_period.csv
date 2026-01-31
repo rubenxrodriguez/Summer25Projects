@@ -1,0 +1,13 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,False,EOG,17,16,2,32,20260108
+LMU,False,OT1,4,0,2,2,20260108
+LMU,False,Q1,2,7,0,4,20260108
+LMU,False,Q2,3,9,0,8,20260108
+LMU,False,Q3,6,0,0,8,20260108
+LMU,False,Q4,2,0,0,10,20260108
+Pepperdine,True,EOG,19,7,2,48,20260108
+Pepperdine,True,OT1,2,0,0,2,20260108
+Pepperdine,True,Q1,2,0,2,16,20260108
+Pepperdine,True,Q2,2,2,0,10,20260108
+Pepperdine,True,Q3,0,0,0,2,20260108
+Pepperdine,True,Q4,13,5,0,18,20260108

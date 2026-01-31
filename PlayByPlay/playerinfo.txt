@@ -1,0 +1,15 @@
+
+PLAYER_INFO = {
+  {"name": "Jess Lawson", "initial": "JL", "height": 67},
+   {"name": "Mari Somvichian", "initial": "MS", "height": 64},
+   {"name": "Andjela Matic", "initial": "AM", "height": 69},
+    {"name": "Ivana Krajina", "initial": "IK", "height": 71},
+     {"name": "Zawadi Ogot", "initial": "ZO", "height": 71},
+    {"name": "Lova Lagerlid", "initial": "LL", "height": 73},
+    {"name": "Carly Heidger", "initial": "CH", "height": 75},
+    {"name": "Kayla Jones", "initial": "KJ", "height": 72},
+    {"name": "Maya Hernandez", "initial": "MH", "height": 72},
+    {"name": "Ana Milanovic", "initial": "AM7", "height": 75},
+    {"name": "Paula Reus Piza", "initial": "PR", "height": 74},
+    {"name": "Allison Clarke", "initial": "AC", "height": 71},
+}

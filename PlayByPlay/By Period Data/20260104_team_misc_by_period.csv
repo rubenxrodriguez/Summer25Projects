@@ -1,0 +1,13 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,True,EOG,14,12,9,32,20260104
+LMU,True,OT1,2,0,2,2,20260104
+LMU,True,Q1,6,2,4,14,20260104
+LMU,True,Q2,1,0,1,4,20260104
+LMU,True,Q3,0,4,2,2,20260104
+LMU,True,Q4,5,6,0,10,20260104
+San Francisco,False,EOG,14,9,11,46,20260104
+San Francisco,False,OT1,2,3,2,2,20260104
+San Francisco,False,Q1,7,2,2,10,20260104
+San Francisco,False,Q2,2,0,2,10,20260104
+San Francisco,False,Q3,2,4,3,16,20260104
+San Francisco,False,Q4,1,0,2,8,20260104

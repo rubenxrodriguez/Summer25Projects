@@ -1,0 +1,92 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,allison clarke,AC,EOG,31.32,2,4,0,1,1,1,5,0,1,1,0,0,0,0,2,20260122
+LMU,True,allison clarke,AC,Q1,4.17,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,20260122
+LMU,True,allison clarke,AC,Q2,9.95,2,3,0,0,1,1,5,0,0,0,0,0,0,0,2,20260122
+LMU,True,ana milanovic,AM7,EOG,2.53,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20260122
+LMU,True,ana milanovic,AM7,Q3,0.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260122
+LMU,True,ana milanovic,AM7,Q4,1.78,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260122
+LMU,True,andjela matic,AM,EOG,36.58,2,9,2,5,2,2,8,0,4,4,0,0,0,2,3,20260122
+LMU,True,andjela matic,AM,Q1,8.63,0,3,0,2,0,0,0,0,2,2,0,0,0,1,1,20260122
+LMU,True,andjela matic,AM,Q2,9.95,1,3,1,1,0,0,3,0,2,2,0,0,0,0,1,20260122
+LMU,True,andjela matic,AM,Q3,9.87,1,3,1,2,0,0,3,0,0,0,0,0,0,0,0,20260122
+LMU,True,andjela matic,AM,Q4,8.13,0,0,0,0,2,2,2,0,0,0,0,0,0,1,1,20260122
+LMU,True,carly heidger,CH,EOG,32.87,7,12,1,3,0,0,15,2,2,4,0,0,0,1,1,20260122
+LMU,True,carly heidger,CH,Q1,7.75,2,2,1,1,0,0,5,0,0,0,0,0,0,0,0,20260122
+LMU,True,carly heidger,CH,Q2,8.0,1,4,0,1,0,0,2,1,0,1,0,0,0,1,1,20260122
+LMU,True,carly heidger,CH,Q3,9.25,2,3,0,1,0,0,4,0,2,2,0,0,0,0,0,20260122
+LMU,True,carly heidger,CH,Q4,7.87,2,3,0,0,0,0,4,1,0,1,0,0,0,0,0,20260122
+LMU,True,ivana krajina,IK,EOG,17.75,0,4,0,1,3,4,3,0,4,4,0,0,0,0,6,20260122
+LMU,True,ivana krajina,IK,Q1,4.98,0,2,0,0,0,0,0,0,2,2,0,0,0,0,3,20260122
+LMU,True,ivana krajina,IK,Q3,2.85,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20260122
+LMU,True,ivana krajina,IK,Q4,9.92,0,1,0,0,3,4,3,0,2,2,0,0,0,0,2,20260122
+LMU,True,jess lawson,JL,EOG,29.63,4,8,0,0,2,8,10,5,1,6,0,0,0,3,7,20260122
+LMU,True,jess lawson,JL,Q1,5.25,1,1,0,0,0,0,2,1,0,1,0,0,0,1,0,20260122
+LMU,True,jess lawson,JL,Q2,5.85,1,3,0,0,0,0,2,3,0,3,0,0,0,2,2,20260122
+LMU,True,jess lawson,JL,Q3,9.25,0,0,0,0,2,4,2,1,1,2,0,0,0,0,2,20260122
+LMU,True,jess lawson,JL,Q4,9.28,2,4,0,0,0,4,4,0,0,0,0,0,0,0,3,20260122
+LMU,True,kayla jones,KJ,EOG,13.78,2,4,0,0,0,0,4,2,1,3,0,0,0,0,1,20260122
+LMU,True,kayla jones,KJ,Q1,4.28,2,3,0,0,0,0,4,0,1,1,0,0,0,0,0,20260122
+LMU,True,kayla jones,KJ,Q2,7.72,0,1,0,0,0,0,0,2,0,2,0,0,0,0,1,20260122
+LMU,True,maya hernandez,MH,EOG,28.6,7,12,0,0,6,7,20,1,5,6,0,0,0,1,10,20260122
+LMU,True,maya hernandez,MH,Q1,5.47,1,3,0,0,0,0,2,0,1,1,0,0,0,0,0,20260122
+LMU,True,maya hernandez,MH,Q2,9.95,0,2,0,0,2,2,2,0,0,0,0,0,0,0,3,20260122
+LMU,True,maya hernandez,MH,Q3,8.12,3,4,0,0,1,1,7,1,2,3,0,0,0,1,1,20260122
+LMU,True,maya hernandez,MH,Q4,5.07,3,3,0,0,3,4,9,0,2,2,0,0,0,0,6,20260122
+LMU,True,paula reus piza,PR,EOG,17.73,3,5,0,0,0,0,6,0,3,3,0,0,0,4,4,20260122
+LMU,True,paula reus piza,PR,Q1,2.22,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20260122
+LMU,True,paula reus piza,PR,Q2,3.93,0,1,0,0,0,0,0,0,2,2,0,0,0,1,0,20260122
+LMU,True,paula reus piza,PR,Q3,1.88,0,0,0,0,0,0,0,0,1,1,0,0,0,2,2,20260122
+LMU,True,paula reus piza,PR,Q4,9.7,2,2,0,0,0,0,4,0,0,0,0,0,0,1,2,20260122
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,10,3,13,0,0,0,1,0,20260122
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,20260122
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20260122
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260122
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,6,2,8,0,0,0,0,0,20260122
+LMU,True,zawadi ogot,ZO,EOG,20.47,1,3,0,0,2,2,4,0,0,0,0,0,0,0,4,20260122
+LMU,True,zawadi ogot,ZO,Q1,4.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20260122
+LMU,True,zawadi ogot,ZO,Q2,8.08,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20260122
+LMU,True,zawadi ogot,ZO,Q3,7.28,0,1,0,0,2,2,2,0,0,0,0,0,0,0,2,20260122
+Portland,False,brynn smith,,EOG,5.95,1,1,1,1,0,0,3,0,1,1,0,0,0,1,2,20260122
+Portland,False,brynn smith,,Q2,1.28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260122
+Portland,False,brynn smith,,Q4,3.35,1,1,1,1,0,0,3,0,1,1,0,0,0,0,2,20260122
+Portland,False,caitlin monahan,,EOG,22.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20260122
+Portland,False,caitlin monahan,,Q2,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20260122
+Portland,False,dyani ananiev,,EOG,32.1,4,16,1,7,0,0,9,1,4,5,0,0,0,1,7,20260122
+Portland,False,dyani ananiev,,Q1,8.65,1,6,0,3,0,0,2,0,2,2,0,0,0,1,1,20260122
+Portland,False,dyani ananiev,,Q2,3.53,1,1,0,0,0,0,2,0,0,0,0,0,0,0,3,20260122
+Portland,False,dyani ananiev,,Q3,10.0,1,6,1,3,0,0,3,1,2,3,0,0,0,0,0,20260122
+Portland,False,dyani ananiev,,Q4,9.92,1,3,0,1,0,0,2,0,0,0,0,0,0,0,3,20260122
+Portland,False,ella zimmerman,,EOG,18.57,2,4,0,0,4,4,8,1,1,2,0,0,0,0,7,20260122
+Portland,False,ella zimmerman,,Q1,4.17,0,0,0,0,2,2,2,1,1,2,0,0,0,0,1,20260122
+Portland,False,ella zimmerman,,Q2,5.47,2,3,0,0,0,0,4,0,0,0,0,0,0,0,1,20260122
+Portland,False,ella zimmerman,,Q3,7.28,0,1,0,0,2,2,2,0,0,0,0,0,0,0,5,20260122
+Portland,False,florence dallow,,EOG,28.72,6,13,0,1,1,2,13,1,3,4,0,0,0,5,7,20260122
+Portland,False,florence dallow,,Q1,8.23,2,4,0,1,0,0,4,0,1,1,0,0,0,1,0,20260122
+Portland,False,florence dallow,,Q2,5.7,0,2,0,0,0,0,0,0,2,2,0,0,0,1,2,20260122
+Portland,False,florence dallow,,Q3,4.87,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20260122
+Portland,False,florence dallow,,Q4,9.92,4,6,0,0,1,2,9,1,0,1,0,0,0,3,5,20260122
+Portland,False,jada kennedy,,EOG,21.62,3,5,0,0,1,1,7,6,3,9,0,0,0,0,4,20260122
+Portland,False,jada kennedy,,Q1,2.67,0,1,0,0,0,0,0,2,1,3,0,0,0,0,1,20260122
+Portland,False,jada kennedy,,Q2,7.72,1,2,0,0,1,1,3,2,0,2,0,0,0,0,1,20260122
+Portland,False,jada kennedy,,Q3,5.97,2,2,0,0,0,0,4,2,1,3,0,0,0,0,2,20260122
+Portland,False,jada kennedy,,Q4,5.27,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260122
+Portland,False,nicole anderson,,EOG,38.93,3,10,3,7,3,3,12,2,2,4,0,0,0,4,2,20260122
+Portland,False,nicole anderson,,Q1,9.25,1,2,1,1,3,3,6,0,0,0,0,0,0,0,2,20260122
+Portland,False,nicole anderson,,Q2,9.95,1,2,1,2,0,0,3,0,1,1,0,0,0,2,0,20260122
+Portland,False,nicole anderson,,Q3,10.0,0,3,0,2,0,0,0,1,1,2,0,0,0,1,0,20260122
+Portland,False,nicole anderson,,Q4,9.73,1,3,1,2,0,0,3,1,0,1,0,0,0,1,0,20260122
+Portland,False,rhyan mogel,,EOG,33.17,6,10,0,1,0,0,12,0,0,0,0,0,0,4,6,20260122
+Portland,False,rhyan mogel,,Q1,5.42,1,2,0,0,0,0,2,0,0,0,0,0,0,1,1,20260122
+Portland,False,rhyan mogel,,Q2,8.67,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20260122
+Portland,False,rhyan mogel,,Q3,10.0,4,6,0,1,0,0,8,0,0,0,0,0,0,0,1,20260122
+Portland,False,rhyan mogel,,Q4,9.08,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,20260122
+Portland,False,team,,EOG,0.0,0,0,0,0,0,0,0,2,5,7,0,0,0,1,0,20260122
+Portland,False,team,,Q1,0.0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20260122
+Portland,False,team,,Q2,0.0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20260122
+Portland,False,team,,Q3,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20260122
+Portland,False,team,,Q4,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20260122
+Portland,False,tiffany barbosa,,EOG,32.12,1,3,0,0,2,2,4,0,2,2,0,0,0,1,2,20260122
+Portland,False,tiffany barbosa,,Q1,6.68,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,20260122
+Portland,False,tiffany barbosa,,Q2,8.65,1,2,0,0,0,0,2,0,0,0,0,0,0,1,0,20260122
+Portland,False,tiffany barbosa,,Q3,10.0,0,0,0,0,2,2,2,0,1,1,0,0,0,0,1,20260122
+Portland,False,tiffany barbosa,,Q4,6.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260122

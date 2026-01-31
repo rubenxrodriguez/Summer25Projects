@@ -1,0 +1,11 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,True,EOG,11,13,6,18,20260115
+LMU,True,Q1,5,3,0,2,20260115
+LMU,True,Q2,2,5,0,4,20260115
+LMU,True,Q3,4,0,4,6,20260115
+LMU,True,Q4,0,5,2,6,20260115
+Oregon St.,False,EOG,9,2,4,28,20260115
+Oregon St.,False,Q1,2,0,0,6,20260115
+Oregon St.,False,Q2,3,0,4,6,20260115
+Oregon St.,False,Q3,4,0,0,10,20260115
+Oregon St.,False,Q4,0,2,0,6,20260115

@@ -1,0 +1,11 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,False,EOG,21,18,11,28,20251230
+LMU,False,Q1,2,5,0,4,20251230
+LMU,False,Q2,9,4,4,4,20251230
+LMU,False,Q3,10,5,5,12,20251230
+LMU,False,Q4,0,4,2,8,20251230
+Washington St.,True,EOG,7,16,4,26,20251230
+Washington St.,True,Q1,3,0,0,10,20251230
+Washington St.,True,Q2,2,2,2,4,20251230
+Washington St.,True,Q3,0,8,0,2,20251230
+Washington St.,True,Q4,2,6,2,10,20251230

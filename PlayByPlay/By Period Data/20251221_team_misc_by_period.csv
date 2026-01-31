@@ -1,0 +1,11 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,True,EOG,22,12,13,42,20251221
+LMU,True,Q1,11,2,6,16,20251221
+LMU,True,Q2,2,4,5,4,20251221
+LMU,True,Q3,5,2,0,14,20251221
+LMU,True,Q4,4,4,2,8,20251221
+Southern Utah,False,EOG,8,5,0,32,20251221
+Southern Utah,False,Q1,0,2,0,6,20251221
+Southern Utah,False,Q2,3,2,0,8,20251221
+Southern Utah,False,Q3,5,1,0,14,20251221
+Southern Utah,False,Q4,0,0,0,4,20251221

@@ -1,0 +1,93 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,allison clarke,AC,EOG,23.7,1,4,1,3,0,0,3,0,0,0,0,0,0,2,0,20260129
+LMU,True,allison clarke,AC,Q2,5.18,1,2,1,1,0,0,3,0,0,0,0,0,0,1,0,20260129
+LMU,True,allison clarke,AC,Q3,5.23,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,20260129
+LMU,True,allison clarke,AC,Q4,10.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260129
+LMU,True,ana milanovic,AM7,EOG,3.87,1,4,0,3,0,0,2,0,0,0,0,0,0,0,0,20260129
+LMU,True,ana milanovic,AM7,Q3,3.87,1,4,0,3,0,0,2,0,0,0,0,0,0,0,0,20260129
+LMU,True,andjela matic,AM,EOG,30.73,4,5,2,3,0,0,10,0,4,4,0,0,0,1,2,20260129
+LMU,True,andjela matic,AM,Q1,6.7,2,2,1,1,0,0,5,0,0,0,0,0,0,0,0,20260129
+LMU,True,andjela matic,AM,Q2,8.23,1,2,0,1,0,0,2,0,0,0,0,0,0,0,2,20260129
+LMU,True,andjela matic,AM,Q3,10.0,0,0,0,0,0,0,0,0,3,3,0,0,0,1,0,20260129
+LMU,True,andjela matic,AM,Q4,5.8,1,1,1,1,0,0,3,0,1,1,0,0,0,0,0,20260129
+LMU,True,carly heidger,CH,EOG,26.97,8,10,2,3,0,0,18,1,2,3,0,0,0,0,0,20260129
+LMU,True,carly heidger,CH,Q1,7.75,3,4,0,0,0,0,6,0,0,0,0,0,0,0,0,20260129
+LMU,True,carly heidger,CH,Q2,10.0,2,2,0,0,0,0,4,0,1,1,0,0,0,0,0,20260129
+LMU,True,carly heidger,CH,Q3,5.75,3,4,2,3,0,0,8,0,1,1,0,0,0,0,0,20260129
+LMU,True,carly heidger,CH,Q4,3.47,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260129
+LMU,True,ivana krajina,IK,EOG,29.25,4,5,3,4,4,4,15,0,2,2,0,0,0,0,3,20260129
+LMU,True,ivana krajina,IK,Q1,7.8,1,1,0,0,0,0,2,0,1,1,0,0,0,0,0,20260129
+LMU,True,ivana krajina,IK,Q2,7.97,2,3,2,3,2,2,8,0,1,1,0,0,0,0,2,20260129
+LMU,True,ivana krajina,IK,Q4,6.27,1,1,1,1,2,2,5,0,0,0,0,0,0,0,1,20260129
+LMU,True,jess lawson,JL,EOG,29.08,5,9,0,0,0,0,10,0,6,6,0,0,0,1,4,20260129
+LMU,True,jess lawson,JL,Q1,7.3,3,3,0,0,0,0,6,0,3,3,0,0,0,0,1,20260129
+LMU,True,jess lawson,JL,Q2,9.8,1,3,0,0,0,0,2,0,3,3,0,0,0,0,1,20260129
+LMU,True,jess lawson,JL,Q3,6.18,1,2,0,0,0,0,2,0,0,0,0,0,0,1,0,20260129
+LMU,True,jess lawson,JL,Q4,5.8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,20260129
+LMU,True,kayla jones,KJ,EOG,16.4,3,5,1,1,0,0,7,1,1,2,0,0,0,1,5,20260129
+LMU,True,kayla jones,KJ,Q1,5.8,1,1,0,0,0,0,2,0,0,0,0,0,0,0,2,20260129
+LMU,True,kayla jones,KJ,Q2,4.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260129
+LMU,True,kayla jones,KJ,Q4,6.53,2,4,1,1,0,0,5,1,1,2,0,0,0,1,2,20260129
+LMU,True,lova lagerlid,LL,EOG,1.38,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,20260129
+LMU,True,lova lagerlid,LL,Q4,1.38,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,20260129
+LMU,True,mari somvichian,MS,EOG,25.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260129
+LMU,True,mari somvichian,MS,Q2,5.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260129
+LMU,True,maya hernandez,MH,EOG,22.38,4,6,0,1,3,3,11,1,1,2,0,0,0,2,8,20260129
+LMU,True,maya hernandez,MH,Q1,2.57,1,1,0,0,0,0,2,0,0,0,0,0,0,1,2,20260129
+LMU,True,maya hernandez,MH,Q2,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260129
+LMU,True,maya hernandez,MH,Q3,6.35,1,1,0,0,2,2,4,0,1,1,0,0,0,0,2,20260129
+LMU,True,maya hernandez,MH,Q4,3.47,2,4,0,1,1,1,5,1,0,1,0,0,0,1,3,20260129
+LMU,True,paula reus piza,PR,EOG,17.0,1,3,1,2,2,2,5,0,3,3,0,0,0,2,4,20260129
+LMU,True,paula reus piza,PR,Q1,2.22,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260129
+LMU,True,paula reus piza,PR,Q2,5.6,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20260129
+LMU,True,paula reus piza,PR,Q3,4.03,0,0,0,0,2,2,2,0,2,2,0,0,0,1,4,20260129
+LMU,True,paula reus piza,PR,Q4,5.15,1,2,1,1,0,0,3,0,0,0,0,0,0,0,0,20260129
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,1,3,4,0,0,0,1,0,20260129
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260129
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260129
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,20260129
+LMU,True,zawadi ogot,ZO,EOG,10.32,3,3,0,0,0,0,6,1,1,2,0,0,0,1,0,20260129
+LMU,True,zawadi ogot,ZO,Q1,2.52,1,1,0,0,0,0,2,0,1,1,0,0,0,1,0,20260129
+LMU,True,zawadi ogot,ZO,Q4,4.2,2,2,0,0,0,0,4,1,0,1,0,0,0,0,0,20260129
+Pacific,False,daria nestorov,,EOG,34.98,7,14,0,1,0,0,14,2,2,4,0,0,0,3,6,20260129
+Pacific,False,daria nestorov,,Q1,8.08,1,5,0,0,0,0,2,1,1,2,0,0,0,0,1,20260129
+Pacific,False,daria nestorov,,Q2,10.0,2,3,0,1,0,0,4,1,1,2,0,0,0,1,2,20260129
+Pacific,False,daria nestorov,,Q3,8.75,1,3,0,0,0,0,2,0,0,0,0,0,0,2,1,20260129
+Pacific,False,daria nestorov,,Q4,8.15,3,3,0,0,0,0,6,0,0,0,0,0,0,0,2,20260129
+Pacific,False,hannah burg,,EOG,4.17,1,2,0,1,0,0,2,0,1,1,0,0,0,0,0,20260129
+Pacific,False,hannah burg,,Q3,1.25,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260129
+Pacific,False,hannah burg,,Q4,1.85,1,1,0,0,0,0,2,0,1,1,0,0,0,0,0,20260129
+Pacific,False,luisa anderegg,,EOG,18.97,1,5,1,4,0,0,3,0,0,0,0,0,0,0,3,20260129
+Pacific,False,luisa anderegg,,Q2,4.5,1,2,1,1,0,0,3,0,0,0,0,0,0,0,0,20260129
+Pacific,False,luisa anderegg,,Q3,3.4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20260129
+Pacific,False,luisa anderegg,,Q4,10.0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,2,20260129
+Pacific,False,nyah lowery,,EOG,19.0,1,6,0,3,0,0,2,1,0,1,0,0,0,0,2,20260129
+Pacific,False,nyah lowery,,Q1,7.4,1,2,0,1,0,0,2,0,0,0,0,0,0,0,1,20260129
+Pacific,False,nyah lowery,,Q2,5.7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20260129
+Pacific,False,nyah lowery,,Q3,2.93,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,20260129
+Pacific,False,nyah lowery,,Q4,2.97,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,20260129
+Pacific,False,sophia mindermann,,EOG,29.53,6,10,5,8,0,0,17,0,2,2,0,0,0,2,2,20260129
+Pacific,False,sophia mindermann,,Q1,6.8,2,4,1,2,0,0,5,0,1,1,0,0,0,0,1,20260129
+Pacific,False,sophia mindermann,,Q2,7.5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260129
+Pacific,False,sophia mindermann,,Q3,7.07,1,1,1,1,0,0,3,0,1,1,0,0,0,2,0,20260129
+Pacific,False,sophia mindermann,,Q4,8.17,3,4,3,4,0,0,9,0,0,0,0,0,0,0,1,20260129
+Pacific,False,stella szabo,,EOG,29.15,2,3,2,3,3,3,9,0,2,2,0,0,0,3,2,20260129
+Pacific,False,stella szabo,,Q1,3.48,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,20260129
+Pacific,False,stella szabo,,Q2,6.8,1,1,1,1,3,3,6,0,0,0,0,0,0,0,1,20260129
+Pacific,False,stella szabo,,Q3,10.0,1,2,1,2,0,0,3,0,1,1,0,0,0,0,0,20260129
+Pacific,False,stella szabo,,Q4,8.87,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20260129
+Pacific,False,sydney ward,,EOG,35.3,5,9,3,4,1,2,14,2,4,6,0,0,0,3,4,20260129
+Pacific,False,sydney ward,,Q1,7.45,1,1,0,0,0,0,2,0,0,0,0,0,0,1,1,20260129
+Pacific,False,sydney ward,,Q2,10.0,1,2,1,1,1,2,4,0,1,1,0,0,0,0,2,20260129
+Pacific,False,sydney ward,,Q3,7.85,1,2,1,1,0,0,3,0,1,1,0,0,0,0,0,20260129
+Pacific,False,sydney ward,,Q4,10.0,2,4,1,2,0,0,5,2,2,4,0,0,0,2,1,20260129
+Pacific,False,team,,EOG,0.0,0,0,0,0,0,0,0,6,2,8,0,0,0,2,0,20260129
+Pacific,False,team,,Q1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260129
+Pacific,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,20260129
+Pacific,False,team,,Q3,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20260129
+Pacific,False,team,,Q4,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,1,0,20260129
+Pacific,False,winner bartholomew,,EOG,31.82,2,10,0,0,1,2,5,2,4,6,0,0,0,3,8,20260129
+Pacific,False,winner bartholomew,,Q1,8.17,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,20260129
+Pacific,False,winner bartholomew,,Q2,5.5,1,4,0,0,0,0,2,0,1,1,0,0,0,1,2,20260129
+Pacific,False,winner bartholomew,,Q3,10.0,1,3,0,0,0,0,2,1,3,4,0,0,0,1,4,20260129
+Pacific,False,winner bartholomew,,Q4,8.15,0,2,0,0,1,2,1,0,0,0,0,0,0,0,2,20260129

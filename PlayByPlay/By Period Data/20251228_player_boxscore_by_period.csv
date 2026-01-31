@@ -1,0 +1,111 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+Gonzaga,True,allie turner,,EOG,45.42,7,13,2,3,4,4,20,0,2,2,0,0,0,1,6,20251228
+Gonzaga,True,allie turner,,OT1,4.83,1,1,1,1,0,0,3,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,allie turner,,OT2,4.75,1,2,0,0,2,2,4,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,allie turner,,Q1,7.98,1,1,1,1,2,2,5,0,1,1,0,0,0,1,1,20251228
+Gonzaga,True,allie turner,,Q2,8.52,1,4,0,1,0,0,2,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,allie turner,,Q3,9.33,1,2,0,0,0,0,2,0,1,1,0,0,0,0,1,20251228
+Gonzaga,True,allie turner,,Q4,10.0,2,3,0,0,0,0,4,0,0,0,0,0,0,0,3,20251228
+Gonzaga,True,christabel osarobo,,EOG,30.65,1,2,0,0,0,0,2,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,christabel osarobo,,Q2,5.22,1,2,0,0,0,0,2,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,ines bettencourt,,EOG,48.67,3,6,1,1,0,0,7,2,4,6,0,0,0,3,4,20251228
+Gonzaga,True,ines bettencourt,,OT1,4.98,1,1,1,1,0,0,3,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,ines bettencourt,,OT2,5.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,ines bettencourt,,Q1,8.83,0,1,0,0,0,0,0,1,0,1,0,0,0,2,2,20251228
+Gonzaga,True,ines bettencourt,,Q2,9.9,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,ines bettencourt,,Q3,10.0,1,2,0,0,0,0,2,0,1,1,0,0,0,0,1,20251228
+Gonzaga,True,ines bettencourt,,Q4,9.95,0,0,0,0,0,0,0,1,3,4,0,0,0,1,0,20251228
+Gonzaga,True,jaiden haile,,EOG,33.25,6,10,0,0,0,1,12,1,1,2,0,0,0,2,4,20251228
+Gonzaga,True,jaiden haile,,OT2,4.47,2,2,0,0,0,0,4,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,jaiden haile,,Q1,4.95,2,3,0,0,0,1,4,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,jaiden haile,,Q2,9.65,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,20251228
+Gonzaga,True,jaiden haile,,Q3,8.07,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,jaiden haile,,Q4,5.55,2,3,0,0,0,0,4,1,0,1,0,0,0,1,2,20251228
+Gonzaga,True,julia wilson,,EOG,8.93,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,julia wilson,,Q1,1.83,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,lauren whittaker,,EOG,41.07,8,18,0,2,2,2,18,6,10,16,0,0,0,3,6,20251228
+Gonzaga,True,lauren whittaker,,OT1,4.98,1,3,0,0,0,0,2,1,1,2,0,0,0,1,0,20251228
+Gonzaga,True,lauren whittaker,,OT2,5.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251228
+Gonzaga,True,lauren whittaker,,Q1,5.98,2,3,0,0,0,0,4,1,2,3,0,0,0,1,0,20251228
+Gonzaga,True,lauren whittaker,,Q2,5.85,1,5,0,0,0,0,2,3,2,5,0,0,0,0,0,20251228
+Gonzaga,True,lauren whittaker,,Q3,9.25,3,4,0,1,0,0,6,1,4,5,0,0,0,0,1,20251228
+Gonzaga,True,lauren whittaker,,Q4,10.0,1,3,0,1,2,2,4,0,0,0,0,0,0,1,5,20251228
+Gonzaga,True,paige lofing,,EOG,1.38,0,0,0,0,3,4,3,0,0,0,0,0,0,0,2,20251228
+Gonzaga,True,paige lofing,,Q2,1.38,0,0,0,0,3,4,3,0,0,0,0,0,0,0,2,20251228
+Gonzaga,True,taylor smith,,EOG,33.05,4,9,0,1,0,0,8,1,5,6,0,0,0,0,4,20251228
+Gonzaga,True,taylor smith,,OT2,2.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251228
+Gonzaga,True,taylor smith,,Q1,7.33,1,4,0,1,0,0,2,1,2,3,0,0,0,0,1,20251228
+Gonzaga,True,taylor smith,,Q2,6.1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20251228
+Gonzaga,True,taylor smith,,Q3,7.62,2,4,0,0,0,0,4,0,0,0,0,0,0,0,2,20251228
+Gonzaga,True,taylor smith,,Q4,5.2,1,1,0,0,0,0,2,0,1,1,0,0,0,0,0,20251228
+Gonzaga,True,team,,EOG,0.0,0,0,0,0,0,0,0,6,4,10,0,0,0,2,0,20251228
+Gonzaga,True,team,,OT1,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251228
+Gonzaga,True,team,,OT2,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251228
+Gonzaga,True,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251228
+Gonzaga,True,team,,Q3,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,1,0,20251228
+Gonzaga,True,team,,Q4,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,1,0,20251228
+Gonzaga,True,teryn gardner,,EOG,26.77,2,3,1,1,4,4,9,2,3,5,0,0,0,1,4,20251228
+Gonzaga,True,teryn gardner,,OT2,4.92,0,0,0,0,4,4,4,0,2,2,0,0,0,0,2,20251228
+Gonzaga,True,teryn gardner,,Q1,3.12,0,1,0,0,0,0,0,1,0,1,0,0,0,0,2,20251228
+Gonzaga,True,teryn gardner,,Q2,5.75,1,1,0,0,0,0,2,1,1,2,0,0,0,1,0,20251228
+Gonzaga,True,teryn gardner,,Q3,5.6,1,1,1,1,0,0,3,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,zeryhia aokuso,,EOG,31.27,3,8,0,1,2,2,8,0,2,2,0,0,0,4,2,20251228
+Gonzaga,True,zeryhia aokuso,,OT1,4.42,2,3,0,0,0,0,4,0,0,0,0,0,0,0,0,20251228
+Gonzaga,True,zeryhia aokuso,,Q2,7.15,0,2,0,0,0,0,0,0,2,2,0,0,0,2,1,20251228
+Gonzaga,True,zeryhia aokuso,,Q3,5.07,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,20251228
+Gonzaga,True,zeryhia aokuso,,Q4,7.68,1,2,0,0,2,2,4,0,0,0,0,0,0,1,1,20251228
+LMU,False,allison clarke,AC,EOG,31.53,4,12,4,12,5,5,17,0,0,0,0,0,0,1,3,20251228
+LMU,False,allison clarke,AC,OT1,4.57,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251228
+LMU,False,allison clarke,AC,OT2,5.0,1,4,1,4,0,0,3,0,0,0,0,0,0,0,0,20251228
+LMU,False,allison clarke,AC,Q1,6.03,1,1,1,1,0,0,3,0,0,0,0,0,0,0,1,20251228
+LMU,False,allison clarke,AC,Q2,4.7,2,3,2,3,2,2,8,0,0,0,0,0,0,1,1,20251228
+LMU,False,allison clarke,AC,Q3,6.18,0,1,0,1,3,3,3,0,0,0,0,0,0,0,1,20251228
+LMU,False,allison clarke,AC,Q4,5.05,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,20251228
+LMU,False,andjela matic,AM,EOG,46.9,2,11,1,7,0,0,5,0,6,6,0,0,0,3,1,20251228
+LMU,False,andjela matic,AM,OT1,4.98,1,2,1,2,0,0,3,0,0,0,0,0,0,1,0,20251228
+LMU,False,andjela matic,AM,Q1,8.23,0,3,0,1,0,0,0,0,3,3,0,0,0,1,0,20251228
+LMU,False,andjela matic,AM,Q2,9.9,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,20251228
+LMU,False,andjela matic,AM,Q3,8.78,1,2,0,1,0,0,2,0,2,2,0,0,0,0,0,20251228
+LMU,False,andjela matic,AM,Q4,10.0,0,3,0,2,0,0,0,0,0,0,0,0,0,1,0,20251228
+LMU,False,carly heidger,CH,EOG,37.0,3,9,1,5,4,4,11,2,3,5,0,0,0,0,4,20251228
+LMU,False,carly heidger,CH,OT1,4.83,2,2,1,1,0,0,5,1,1,2,0,0,0,0,0,20251228
+LMU,False,carly heidger,CH,OT2,4.67,0,2,0,2,0,0,0,0,0,0,0,0,0,0,1,20251228
+LMU,False,carly heidger,CH,Q1,7.38,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,20251228
+LMU,False,carly heidger,CH,Q2,7.97,1,3,0,1,2,2,4,1,1,2,0,0,0,0,1,20251228
+LMU,False,carly heidger,CH,Q3,4.4,0,0,0,0,2,2,2,0,0,0,0,0,0,0,2,20251228
+LMU,False,carly heidger,CH,Q4,7.75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251228
+LMU,False,ivana krajina,IK,EOG,34.72,0,1,0,0,0,0,0,0,1,1,0,0,0,2,1,20251228
+LMU,False,ivana krajina,IK,Q1,3.78,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,20251228
+LMU,False,ivana krajina,IK,Q2,4.68,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,20251228
+LMU,False,ivana krajina,IK,Q3,6.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251228
+LMU,False,jess lawson,JL,EOG,41.38,4,10,0,0,4,7,12,2,2,4,0,0,0,2,9,20251228
+LMU,False,jess lawson,JL,OT2,2.22,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,20251228
+LMU,False,jess lawson,JL,Q1,7.87,0,2,0,0,2,2,2,0,0,0,0,0,0,1,3,20251228
+LMU,False,jess lawson,JL,Q3,8.07,1,2,0,0,1,4,3,0,1,1,0,0,0,1,2,20251228
+LMU,False,jess lawson,JL,Q4,8.35,3,6,0,0,1,1,7,1,0,1,0,0,0,0,3,20251228
+LMU,False,kayla jones,KJ,EOG,8.05,1,1,0,0,0,0,2,1,0,1,0,0,0,0,1,20251228
+LMU,False,kayla jones,KJ,Q1,2.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251228
+LMU,False,kayla jones,KJ,Q2,2.78,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,20251228
+LMU,False,maya hernandez,MH,EOG,38.88,8,12,0,0,2,4,18,4,1,5,0,0,0,2,10,20251228
+LMU,False,maya hernandez,MH,OT1,1.63,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251228
+LMU,False,maya hernandez,MH,OT2,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20251228
+LMU,False,maya hernandez,MH,Q1,7.12,2,2,0,0,0,0,4,1,1,2,0,0,0,0,1,20251228
+LMU,False,maya hernandez,MH,Q2,7.68,1,3,0,0,0,2,2,0,0,0,0,0,0,1,2,20251228
+LMU,False,maya hernandez,MH,Q4,9.9,5,6,0,0,2,2,12,3,0,3,0,0,0,0,6,20251228
+LMU,False,paula reus piza,PR,EOG,27.42,3,7,1,2,0,0,7,0,3,3,0,0,0,0,1,20251228
+LMU,False,paula reus piza,PR,OT1,3.5,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251228
+LMU,False,paula reus piza,PR,Q2,5.2,1,3,0,1,0,0,2,0,3,3,0,0,0,0,0,20251228
+LMU,False,paula reus piza,PR,Q3,5.6,1,3,1,1,0,0,3,0,0,0,0,0,0,0,0,20251228
+LMU,False,paula reus piza,PR,Q4,3.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251228
+LMU,False,team,,EOG,0.0,0,0,0,0,0,0,0,5,2,7,0,0,0,1,0,20251228
+LMU,False,team,,OT2,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251228
+LMU,False,team,,Q1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251228
+LMU,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251228
+LMU,False,team,,Q3,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,20251228
+LMU,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20251228
+LMU,False,zawadi ogot,ZO,EOG,29.57,4,7,0,0,0,0,8,1,2,3,0,0,0,1,3,20251228
+LMU,False,zawadi ogot,ZO,OT1,4.83,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251228
+LMU,False,zawadi ogot,ZO,OT2,2.78,1,1,0,0,0,0,2,0,0,0,0,0,0,1,1,20251228
+LMU,False,zawadi ogot,ZO,Q1,6.27,1,2,0,0,0,0,2,0,0,0,0,0,0,0,1,20251228
+LMU,False,zawadi ogot,ZO,Q2,7.15,0,1,0,0,0,0,0,1,1,2,0,0,0,0,0,20251228
+LMU,False,zawadi ogot,ZO,Q4,6.6,1,2,0,0,0,0,2,0,1,1,0,0,0,0,1,20251228

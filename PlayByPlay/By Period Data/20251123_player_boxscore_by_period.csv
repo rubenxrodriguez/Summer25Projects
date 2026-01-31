@@ -1,0 +1,88 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+Idaho St.,False,alyse aby,,EOG,22.02,3,5,0,1,0,0,6,1,1,2,0,0,0,4,5,20251123
+Idaho St.,False,alyse aby,,Q1,3.95,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,20251123
+Idaho St.,False,alyse aby,,Q3,9.98,1,2,0,1,0,0,2,1,1,2,0,0,0,1,1,20251123
+Idaho St.,False,alyse aby,,Q4,6.78,2,2,0,0,0,0,4,0,0,0,0,0,0,2,2,20251123
+Idaho St.,False,asa wolfram,,EOG,11.97,3,4,0,0,0,0,6,0,2,2,0,0,0,0,0,20251123
+Idaho St.,False,asa wolfram,,Q1,3.47,1,2,0,0,0,0,2,0,1,1,0,0,0,0,0,20251123
+Idaho St.,False,asa wolfram,,Q2,5.27,1,1,0,0,0,0,2,0,1,1,0,0,0,0,0,20251123
+Idaho St.,False,asa wolfram,,Q4,2.2,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251123
+Idaho St.,False,aspen caldwell,,EOG,18.55,2,3,0,0,2,2,6,1,2,3,0,0,0,1,5,20251123
+Idaho St.,False,aspen caldwell,,Q1,3.47,1,1,0,0,0,0,2,0,2,2,0,0,0,0,0,20251123
+Idaho St.,False,aspen caldwell,,Q2,5.2,1,1,0,0,2,2,4,0,0,0,0,0,0,1,2,20251123
+Idaho St.,False,aspen caldwell,,Q3,6.53,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,20251123
+Idaho St.,False,aspen caldwell,,Q4,3.35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,20251123
+Idaho St.,False,halle wright,,EOG,19.98,1,3,0,2,2,2,4,0,0,0,0,0,0,0,3,20251123
+Idaho St.,False,halle wright,,Q1,2.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251123
+Idaho St.,False,halle wright,,Q2,7.62,0,1,0,1,2,2,2,0,0,0,0,0,0,0,1,20251123
+Idaho St.,False,halle wright,,Q3,2.37,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20251123
+Idaho St.,False,halle wright,,Q4,7.22,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251123
+Idaho St.,False,kacey spink,,EOG,33.45,4,8,0,0,0,0,8,2,4,6,0,0,0,5,7,20251123
+Idaho St.,False,kacey spink,,Q1,5.07,0,3,0,0,0,0,0,1,0,1,0,0,0,2,2,20251123
+Idaho St.,False,kacey spink,,Q2,9.98,1,1,0,0,0,0,2,0,1,1,0,0,0,1,1,20251123
+Idaho St.,False,kacey spink,,Q3,8.95,2,3,0,0,0,0,4,0,3,3,0,0,0,0,1,20251123
+Idaho St.,False,kacey spink,,Q4,9.45,1,1,0,0,0,0,2,1,0,1,0,0,0,2,3,20251123
+Idaho St.,False,maeva gauffrenet,,EOG,18.3,2,4,1,1,0,0,5,0,0,0,0,0,0,2,2,20251123
+Idaho St.,False,maeva gauffrenet,,Q1,5.62,1,1,1,1,0,0,3,0,0,0,0,0,0,1,0,20251123
+Idaho St.,False,maeva gauffrenet,,Q2,5.25,1,1,0,0,0,0,2,0,0,0,0,0,0,1,1,20251123
+Idaho St.,False,maeva gauffrenet,,Q3,3.05,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,20251123
+Idaho St.,False,piper carlson,,EOG,34.2,2,7,0,0,2,8,6,3,3,6,0,0,0,2,10,20251123
+Idaho St.,False,piper carlson,,Q1,6.5,1,4,0,0,0,0,2,1,0,1,0,0,0,0,1,20251123
+Idaho St.,False,piper carlson,,Q2,9.5,1,1,0,0,1,2,3,0,0,0,0,0,0,1,2,20251123
+Idaho St.,False,piper carlson,,Q3,8.95,0,1,0,0,0,2,0,2,0,2,0,0,0,0,3,20251123
+Idaho St.,False,piper carlson,,Q4,9.25,0,1,0,0,1,4,1,0,3,3,0,0,0,1,4,20251123
+Idaho St.,False,sophia covello,,EOG,32.6,2,10,0,3,0,0,4,0,3,3,0,0,0,1,5,20251123
+Idaho St.,False,sophia covello,,Q1,8.12,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,20251123
+Idaho St.,False,sophia covello,,Q2,8.22,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20251123
+Idaho St.,False,sophia covello,,Q3,8.95,0,4,0,2,0,0,0,0,1,1,0,0,0,0,2,20251123
+Idaho St.,False,sophia covello,,Q4,7.32,2,5,0,0,0,0,4,0,0,0,0,0,0,0,2,20251123
+Idaho St.,False,tasia jordan,,EOG,18.52,3,6,0,0,1,2,7,1,5,6,0,0,0,5,4,20251123
+Idaho St.,False,tasia jordan,,Q1,5.7,1,2,0,0,0,0,2,1,1,2,0,0,0,1,1,20251123
+Idaho St.,False,tasia jordan,,Q2,2.37,0,0,0,0,1,2,1,0,1,1,0,0,0,1,3,20251123
+Idaho St.,False,tasia jordan,,Q3,5.6,1,2,0,0,0,0,2,0,3,3,0,0,0,3,0,20251123
+Idaho St.,False,tasia jordan,,Q4,4.85,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20251123
+Idaho St.,False,team,,EOG,0.0,0,0,0,0,0,0,0,7,5,12,0,0,0,1,1,20251123
+Idaho St.,False,team,,Q1,0.0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,20251123
+Idaho St.,False,team,,Q2,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,20251123
+Idaho St.,False,team,,Q3,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,20251123
+Idaho St.,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,1,20251123
+LMU,True,andjela matic,AM,EOG,37.35,3,12,1,5,3,3,10,0,4,4,0,0,0,2,4,20251123
+LMU,True,andjela matic,AM,Q1,8.47,1,3,0,0,0,0,2,0,0,0,0,0,0,1,1,20251123
+LMU,True,andjela matic,AM,Q2,9.98,1,5,0,2,1,1,3,0,0,0,0,0,0,0,2,20251123
+LMU,True,andjela matic,AM,Q3,9.22,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,20251123
+LMU,True,andjela matic,AM,Q4,9.68,1,3,1,3,2,2,5,0,3,3,0,0,0,1,1,20251123
+LMU,True,carly heidger,CH,EOG,35.2,2,5,1,3,9,9,14,1,4,5,0,0,0,3,5,20251123
+LMU,True,carly heidger,CH,Q1,8.52,0,1,0,1,2,2,2,1,2,3,0,0,0,0,1,20251123
+LMU,True,carly heidger,CH,Q2,7.57,2,2,1,1,5,5,10,0,0,0,0,0,0,1,3,20251123
+LMU,True,carly heidger,CH,Q3,9.22,0,1,0,0,0,0,0,0,2,2,0,0,0,1,1,20251123
+LMU,True,carly heidger,CH,Q4,9.9,0,1,0,1,2,2,2,0,0,0,0,0,0,1,0,20251123
+LMU,True,ivana krajina,IK,EOG,30.92,1,9,1,7,2,5,5,0,1,1,0,0,0,3,7,20251123
+LMU,True,ivana krajina,IK,Q1,4.47,0,3,0,3,0,0,0,0,0,0,0,0,0,1,0,20251123
+LMU,True,ivana krajina,IK,Q2,7.82,0,1,0,1,0,0,0,0,1,1,0,0,0,2,1,20251123
+LMU,True,ivana krajina,IK,Q3,9.72,1,3,1,2,2,5,5,0,0,0,0,0,0,0,5,20251123
+LMU,True,ivana krajina,IK,Q4,8.92,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,20251123
+LMU,True,jess lawson,JL,EOG,34.0,7,13,1,3,8,12,23,1,8,9,0,0,0,1,10,20251123
+LMU,True,jess lawson,JL,Q1,7.5,2,4,0,2,1,1,5,0,2,2,0,0,0,0,2,20251123
+LMU,True,jess lawson,JL,Q2,8.18,1,1,0,0,2,2,4,0,0,0,0,0,0,0,3,20251123
+LMU,True,jess lawson,JL,Q3,9.22,0,3,0,0,0,0,0,0,3,3,0,0,0,1,0,20251123
+LMU,True,jess lawson,JL,Q4,9.1,4,5,1,1,5,9,14,1,3,4,0,0,0,0,5,20251123
+LMU,True,kayla jones,KJ,EOG,7.15,1,1,0,0,0,0,2,1,0,1,0,0,0,0,2,20251123
+LMU,True,kayla jones,KJ,Q1,1.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251123
+LMU,True,kayla jones,KJ,Q3,0.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251123
+LMU,True,kayla jones,KJ,Q4,2.52,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,20251123
+LMU,True,mari somvichian,MS,EOG,5.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20251123
+LMU,True,mari somvichian,MS,Q1,2.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251123
+LMU,True,mari somvichian,MS,Q2,2.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251123
+LMU,True,maya hernandez,MH,EOG,32.32,7,13,0,1,3,4,17,4,1,5,0,0,0,3,8,20251123
+LMU,True,maya hernandez,MH,Q1,7.83,2,4,0,0,0,0,4,1,0,1,0,0,0,0,1,20251123
+LMU,True,maya hernandez,MH,Q2,7.7,1,3,0,1,0,0,2,1,1,2,0,0,0,1,0,20251123
+LMU,True,maya hernandez,MH,Q3,9.4,0,0,0,0,3,4,3,0,0,0,0,0,0,2,3,20251123
+LMU,True,maya hernandez,MH,Q4,7.38,4,6,0,0,0,0,8,2,0,2,0,0,0,0,4,20251123
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,8,2,10,0,0,0,0,0,20251123
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251123
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20251123
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,3,1,4,0,0,0,0,0,20251123
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,20251123
+LMU,True,zawadi ogot,ZO,EOG,9.53,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,20251123
+LMU,True,zawadi ogot,ZO,Q2,5.72,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20251123
+LMU,True,zawadi ogot,ZO,Q4,1.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20251123

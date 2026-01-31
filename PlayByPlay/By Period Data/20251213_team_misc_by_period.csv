@@ -1,0 +1,11 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,False,EOG,21,21,10,40,20251213
+LMU,False,Q1,2,5,3,4,20251213
+LMU,False,Q2,9,4,0,16,20251213
+LMU,False,Q3,4,5,2,12,20251213
+LMU,False,Q4,6,7,5,8,20251213
+Wichita St.,True,EOG,12,9,13,32,20251213
+Wichita St.,True,Q1,2,3,3,2,20251213
+Wichita St.,True,Q2,0,2,4,10,20251213
+Wichita St.,True,Q3,2,4,2,12,20251213
+Wichita St.,True,Q4,8,0,4,8,20251213

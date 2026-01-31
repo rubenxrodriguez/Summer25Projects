@@ -1,0 +1,93 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+Cal St. Fullerton,True,cristina jones,,EOG,32.58,7,12,0,0,6,10,20,3,4,7,0,0,0,2,9,20251129
+Cal St. Fullerton,True,cristina jones,,Q1,8.58,3,3,0,0,1,2,7,0,1,1,0,0,0,1,2,20251129
+Cal St. Fullerton,True,cristina jones,,Q2,4.0,1,1,0,0,0,0,2,0,2,2,0,0,0,0,1,20251129
+Cal St. Fullerton,True,cristina jones,,Q3,10.0,1,1,0,0,5,8,7,2,1,3,0,0,0,1,5,20251129
+Cal St. Fullerton,True,cristina jones,,Q4,10.0,2,7,0,0,0,0,4,1,0,1,0,0,0,0,1,20251129
+Cal St. Fullerton,True,dylan swindle,,EOG,37.32,4,9,1,2,0,1,9,0,0,0,0,0,0,4,5,20251129
+Cal St. Fullerton,True,dylan swindle,,Q1,7.32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251129
+Cal St. Fullerton,True,dylan swindle,,Q2,10.0,1,1,0,0,0,1,2,0,0,0,0,0,0,0,1,20251129
+Cal St. Fullerton,True,dylan swindle,,Q3,10.0,1,3,1,2,0,0,3,0,0,0,0,0,0,1,0,20251129
+Cal St. Fullerton,True,dylan swindle,,Q4,10.0,2,4,0,0,0,0,4,0,0,0,0,0,0,3,4,20251129
+Cal St. Fullerton,True,jana falsdottir,,EOG,19.77,1,2,0,0,0,0,2,1,3,4,0,0,0,1,1,20251129
+Cal St. Fullerton,True,jana falsdottir,,Q1,4.68,1,1,0,0,0,0,2,0,1,1,0,0,0,1,1,20251129
+Cal St. Fullerton,True,jana falsdottir,,Q2,6.8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251129
+Cal St. Fullerton,True,jana falsdottir,,Q3,7.8,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,20251129
+Cal St. Fullerton,True,kya pearson,,EOG,19.5,1,4,0,0,2,2,4,0,2,2,0,0,0,4,4,20251129
+Cal St. Fullerton,True,kya pearson,,Q1,8.02,0,1,0,0,0,0,0,0,2,2,0,0,0,2,0,20251129
+Cal St. Fullerton,True,kya pearson,,Q2,7.68,1,2,0,0,0,0,2,0,0,0,0,0,0,1,1,20251129
+Cal St. Fullerton,True,kya pearson,,Q3,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251129
+Cal St. Fullerton,True,kya pearson,,Q4,0.7,0,1,0,0,2,2,2,0,0,0,0,0,0,0,3,20251129
+Cal St. Fullerton,True,lilliana petersen,,EOG,2.98,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,20251129
+Cal St. Fullerton,True,lilliana petersen,,Q2,2.98,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,20251129
+Cal St. Fullerton,True,madelynn muniz,,EOG,24.82,2,4,1,2,0,0,5,0,1,1,0,0,0,1,3,20251129
+Cal St. Fullerton,True,madelynn muniz,,Q1,4.33,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251129
+Cal St. Fullerton,True,madelynn muniz,,Q2,4.48,1,2,1,1,0,0,3,0,0,0,0,0,0,0,2,20251129
+Cal St. Fullerton,True,madelynn muniz,,Q3,6.9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251129
+Cal St. Fullerton,True,madelynn muniz,,Q4,9.1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20251129
+Cal St. Fullerton,True,maxine sutisna,,EOG,34.17,5,13,1,4,0,1,11,1,3,4,0,0,0,3,5,20251129
+Cal St. Fullerton,True,maxine sutisna,,Q1,4.33,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20251129
+Cal St. Fullerton,True,maxine sutisna,,Q2,10.0,1,3,0,1,0,0,2,0,0,0,0,0,0,3,1,20251129
+Cal St. Fullerton,True,maxine sutisna,,Q3,10.0,2,3,1,1,0,0,5,0,0,0,0,0,0,0,1,20251129
+Cal St. Fullerton,True,maxine sutisna,,Q4,9.83,2,6,0,1,0,1,4,1,3,4,0,0,0,0,2,20251129
+Cal St. Fullerton,True,mimi moon,,EOG,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251129
+Cal St. Fullerton,True,mimi moon,,Q4,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251129
+Cal St. Fullerton,True,nicole steiner,,EOG,25.48,4,11,0,0,0,0,8,1,2,3,0,0,0,2,3,20251129
+Cal St. Fullerton,True,nicole steiner,,Q1,6.33,3,4,0,0,0,0,6,1,0,1,0,0,0,0,0,20251129
+Cal St. Fullerton,True,nicole steiner,,Q2,7.0,1,3,0,0,0,0,2,0,1,1,0,0,0,0,0,20251129
+Cal St. Fullerton,True,nicole steiner,,Q3,5.78,0,3,0,0,0,0,0,0,1,1,0,0,0,1,2,20251129
+Cal St. Fullerton,True,nicole steiner,,Q4,6.37,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,20251129
+Cal St. Fullerton,True,talia maxwell,,EOG,12.53,1,2,0,0,1,1,3,1,4,5,0,0,0,0,1,20251129
+Cal St. Fullerton,True,talia maxwell,,Q1,3.55,1,2,0,0,1,1,3,0,1,1,0,0,0,0,1,20251129
+Cal St. Fullerton,True,talia maxwell,,Q3,4.22,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251129
+Cal St. Fullerton,True,talia maxwell,,Q4,3.23,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,20251129
+Cal St. Fullerton,True,team,,EOG,0.0,0,0,0,0,0,0,0,5,2,7,0,0,0,2,0,20251129
+Cal St. Fullerton,True,team,,Q1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251129
+Cal St. Fullerton,True,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,20251129
+Cal St. Fullerton,True,team,,Q3,0.0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,20251129
+Cal St. Fullerton,True,team,,Q4,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,20251129
+LMU,False,ana milanovic,AM7,EOG,20.02,0,2,0,1,3,4,3,1,2,3,0,0,0,1,2,20251129
+LMU,False,ana milanovic,AM7,Q1,1.48,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251129
+LMU,False,ana milanovic,AM7,Q2,5.52,0,1,0,0,3,4,3,0,0,0,0,0,0,0,2,20251129
+LMU,False,ana milanovic,AM7,Q3,7.8,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,20251129
+LMU,False,ana milanovic,AM7,Q4,5.22,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251129
+LMU,False,andjela matic,AM,EOG,32.3,4,5,3,4,3,4,14,0,3,3,0,0,0,3,9,20251129
+LMU,False,andjela matic,AM,Q1,4.38,2,2,1,1,0,0,5,0,1,1,0,0,0,0,0,20251129
+LMU,False,andjela matic,AM,Q2,7.92,1,1,1,1,0,0,3,0,1,1,0,0,0,2,3,20251129
+LMU,False,andjela matic,AM,Q3,10.0,1,2,1,2,0,0,3,0,0,0,0,0,0,1,2,20251129
+LMU,False,andjela matic,AM,Q4,10.0,0,0,0,0,3,4,3,0,1,1,0,0,0,0,4,20251129
+LMU,False,carly heidger,CH,EOG,33.28,5,10,3,5,2,2,15,1,2,3,0,0,0,0,1,20251129
+LMU,False,carly heidger,CH,Q1,8.4,2,3,1,1,0,0,5,0,0,0,0,0,0,0,0,20251129
+LMU,False,carly heidger,CH,Q2,10.0,0,1,0,1,2,2,2,1,2,3,0,0,0,0,1,20251129
+LMU,False,carly heidger,CH,Q3,5.97,1,1,1,1,0,0,3,0,0,0,0,0,0,0,0,20251129
+LMU,False,carly heidger,CH,Q4,8.92,2,5,1,2,0,0,5,0,0,0,0,0,0,0,0,20251129
+LMU,False,ivana krajina,IK,EOG,29.58,1,2,0,0,0,0,2,0,2,2,0,0,0,6,1,20251129
+LMU,False,ivana krajina,IK,Q1,6.98,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,20251129
+LMU,False,ivana krajina,IK,Q2,10.0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251129
+LMU,False,ivana krajina,IK,Q3,7.3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,20251129
+LMU,False,ivana krajina,IK,Q4,5.3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,20251129
+LMU,False,jess lawson,JL,EOG,33.68,7,11,0,0,10,11,24,3,4,7,0,0,0,2,9,20251129
+LMU,False,jess lawson,JL,Q1,5.68,3,5,0,0,1,1,7,2,0,2,0,0,0,0,2,20251129
+LMU,False,jess lawson,JL,Q2,10.0,1,2,0,0,2,2,4,0,1,1,0,0,0,0,1,20251129
+LMU,False,jess lawson,JL,Q3,8.0,3,4,0,0,1,2,7,1,1,2,0,0,0,1,2,20251129
+LMU,False,jess lawson,JL,Q4,10.0,0,0,0,0,6,6,6,0,2,2,0,0,0,1,4,20251129
+LMU,False,kayla jones,KJ,EOG,19.93,1,6,0,1,0,0,2,0,2,2,0,0,0,0,1,20251129
+LMU,False,kayla jones,KJ,Q1,3.87,1,3,0,1,0,0,2,0,0,0,0,0,0,0,0,20251129
+LMU,False,kayla jones,KJ,Q3,7.08,0,3,0,0,0,0,0,0,2,2,0,0,0,0,1,20251129
+LMU,False,mari somvichian,MS,EOG,12.4,0,2,0,1,0,0,0,0,0,0,0,0,0,0,3,20251129
+LMU,False,mari somvichian,MS,Q1,3.55,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251129
+LMU,False,mari somvichian,MS,Q2,2.08,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251129
+LMU,False,mari somvichian,MS,Q4,6.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,20251129
+LMU,False,maya hernandez,MH,EOG,25.55,5,12,0,0,0,0,10,2,6,8,0,0,0,4,6,20251129
+LMU,False,maya hernandez,MH,Q1,5.25,1,3,0,0,0,0,2,0,1,1,0,0,0,1,3,20251129
+LMU,False,maya hernandez,MH,Q2,6.88,2,5,0,0,0,0,4,1,1,2,0,0,0,1,0,20251129
+LMU,False,maya hernandez,MH,Q3,4.5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,20251129
+LMU,False,maya hernandez,MH,Q4,8.92,2,3,0,0,0,0,4,1,4,5,0,0,0,2,1,20251129
+LMU,False,team,,EOG,0.0,0,0,0,0,0,0,0,3,4,7,0,0,0,0,0,20251129
+LMU,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,20251129
+LMU,False,team,,Q3,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251129
+LMU,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,20251129
+LMU,False,zawadi ogot,ZO,EOG,19.43,1,4,0,0,1,2,3,2,1,3,0,0,0,1,1,20251129
+LMU,False,zawadi ogot,ZO,Q2,5.4,0,1,0,0,0,0,0,2,0,2,0,0,0,1,0,20251129
+LMU,False,zawadi ogot,ZO,Q3,4.7,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20251129
+LMU,False,zawadi ogot,ZO,Q4,4.7,0,1,0,0,1,2,1,0,1,1,0,0,0,0,1,20251129

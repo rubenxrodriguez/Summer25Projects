@@ -1,0 +1,82 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,allison clarke,AC,EOG,7.03,1,1,1,1,0,0,3,1,0,1,0,0,0,0,2,20260115
+LMU,True,allison clarke,AC,Q2,6.95,1,1,1,1,0,0,3,1,0,1,0,0,0,0,2,20260115
+LMU,True,ana milanovic,AM7,EOG,1.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260115
+LMU,True,ana milanovic,AM7,Q2,1.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260115
+LMU,True,andjela matic,AM,EOG,36.73,2,15,2,5,0,0,6,1,2,3,0,0,0,0,2,20260115
+LMU,True,andjela matic,AM,Q1,9.1,1,4,1,3,0,0,3,0,0,0,0,0,0,0,0,20260115
+LMU,True,andjela matic,AM,Q2,7.73,0,2,0,0,0,0,0,0,1,1,0,0,0,0,1,20260115
+LMU,True,andjela matic,AM,Q3,10.0,1,5,1,1,0,0,3,1,0,1,0,0,0,0,1,20260115
+LMU,True,andjela matic,AM,Q4,9.9,0,4,0,1,0,0,0,0,1,1,0,0,0,0,0,20260115
+LMU,True,carly heidger,CH,EOG,38.6,6,11,2,3,0,0,14,1,1,2,0,0,0,0,3,20260115
+LMU,True,carly heidger,CH,Q1,9.97,2,3,2,2,0,0,6,0,1,1,0,0,0,0,0,20260115
+LMU,True,carly heidger,CH,Q2,8.73,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260115
+LMU,True,carly heidger,CH,Q3,10.0,1,3,0,0,0,0,2,0,0,0,0,0,0,0,1,20260115
+LMU,True,carly heidger,CH,Q4,9.9,2,4,0,1,0,0,4,1,0,1,0,0,0,0,2,20260115
+LMU,True,ivana krajina,IK,EOG,34.53,2,5,0,1,0,0,4,0,1,1,0,0,0,3,6,20260115
+LMU,True,ivana krajina,IK,Q1,9.62,2,4,0,0,0,0,4,0,0,0,0,0,0,2,1,20260115
+LMU,True,ivana krajina,IK,Q2,5.02,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20260115
+LMU,True,ivana krajina,IK,Q3,10.0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20260115
+LMU,True,ivana krajina,IK,Q4,9.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,20260115
+LMU,True,jess lawson,JL,EOG,34.05,4,14,3,3,3,4,14,5,11,16,0,0,0,1,4,20260115
+LMU,True,jess lawson,JL,Q1,6.3,2,2,2,2,0,0,6,1,3,4,0,0,0,0,1,20260115
+LMU,True,jess lawson,JL,Q2,7.85,0,6,0,0,3,4,3,2,2,4,0,0,0,1,2,20260115
+LMU,True,jess lawson,JL,Q3,10.0,1,3,0,0,0,0,2,0,1,1,0,0,0,0,1,20260115
+LMU,True,jess lawson,JL,Q4,9.9,1,3,1,1,0,0,3,2,5,7,0,0,0,0,0,20260115
+LMU,True,kayla jones,KJ,EOG,8.92,1,1,0,0,0,0,2,0,0,0,0,0,0,2,2,20260115
+LMU,True,kayla jones,KJ,Q2,8.92,1,1,0,0,0,0,2,0,0,0,0,0,0,2,2,20260115
+LMU,True,maya hernandez,MH,EOG,29.77,3,9,0,0,2,3,8,4,2,6,0,0,0,1,7,20260115
+LMU,True,maya hernandez,MH,Q1,9.1,0,2,0,0,0,0,0,0,1,1,0,0,0,1,0,20260115
+LMU,True,maya hernandez,MH,Q2,5.57,1,4,0,0,0,0,2,3,0,3,0,0,0,0,1,20260115
+LMU,True,maya hernandez,MH,Q3,5.2,0,0,0,0,2,2,2,1,0,1,0,0,0,0,3,20260115
+LMU,True,maya hernandez,MH,Q4,9.9,2,3,0,0,0,1,4,0,1,1,0,0,0,0,3,20260115
+LMU,True,paula reus piza,PR,EOG,4.8,1,3,0,2,0,0,2,0,0,0,0,0,0,0,2,20260115
+LMU,True,paula reus piza,PR,Q3,4.8,1,3,0,2,0,0,2,0,0,0,0,0,0,0,2,20260115
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,5,0,5,0,0,0,1,0,20260115
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20260115
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,20260115
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260115
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260115
+LMU,True,zawadi ogot,ZO,EOG,23.13,1,2,0,0,0,0,2,0,2,2,0,0,0,1,2,20260115
+LMU,True,zawadi ogot,ZO,Q1,3.13,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260115
+LMU,True,zawadi ogot,ZO,Q3,8.38,1,2,0,0,0,0,2,0,1,1,0,0,0,1,2,20260115
+Oregon St.,False,ally schimel,,EOG,31.98,0,5,0,4,0,0,0,0,3,3,0,0,0,1,3,20260115
+Oregon St.,False,ally schimel,,Q1,5.28,0,2,0,2,0,0,0,0,1,1,0,0,0,1,2,20260115
+Oregon St.,False,ally schimel,,Q2,6.8,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,20260115
+Oregon St.,False,ally schimel,,Q3,10.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20260115
+Oregon St.,False,ally schimel,,Q4,9.9,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,20260115
+Oregon St.,False,cloe vecina,,EOG,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260115
+Oregon St.,False,cloe vecina,,Q2,3.05,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260115
+Oregon St.,False,jenna villa,,EOG,37.28,5,11,2,6,1,2,13,1,3,4,0,0,0,2,1,20260115
+Oregon St.,False,jenna villa,,Q1,7.53,4,5,2,3,0,0,10,1,0,1,0,0,0,0,0,20260115
+Oregon St.,False,jenna villa,,Q2,9.85,1,2,0,1,0,0,2,0,2,2,0,0,0,0,0,20260115
+Oregon St.,False,jenna villa,,Q3,10.0,0,0,0,0,1,2,1,0,1,1,0,0,0,2,0,20260115
+Oregon St.,False,jenna villa,,Q4,9.9,0,4,0,2,0,0,0,0,0,0,0,0,0,0,1,20260115
+Oregon St.,False,keira lindemans,,EOG,11.07,1,2,0,1,0,0,2,0,1,1,0,0,0,0,1,20260115
+Oregon St.,False,keira lindemans,,Q2,4.28,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20260115
+Oregon St.,False,keira lindemans,,Q3,2.72,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,20260115
+Oregon St.,False,kennedie shuler,,EOG,28.32,3,5,0,0,6,8,12,1,6,7,0,0,0,2,12,20260115
+Oregon St.,False,kennedie shuler,,Q2,6.8,1,2,0,0,3,4,5,0,1,1,0,0,0,0,4,20260115
+Oregon St.,False,kennedie shuler,,Q3,10.0,2,2,0,0,3,4,7,0,1,1,0,0,0,1,3,20260115
+Oregon St.,False,kennedie shuler,,Q4,9.9,0,1,0,0,0,0,0,1,4,5,0,0,0,1,5,20260115
+Oregon St.,False,lara alonso,,EOG,20.43,1,2,0,0,2,2,4,0,0,0,0,0,0,0,2,20260115
+Oregon St.,False,lara alonso,,Q2,5.38,0,0,0,0,2,2,2,0,0,0,0,0,0,0,1,20260115
+Oregon St.,False,lara alonso,,Q4,5.05,1,2,0,0,0,0,2,0,0,0,0,0,0,0,1,20260115
+Oregon St.,False,lizzy williamson,,EOG,7.75,1,4,0,0,0,0,2,0,2,2,0,0,0,0,0,20260115
+Oregon St.,False,lizzy williamson,,Q1,4.88,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,20260115
+Oregon St.,False,lizzy williamson,,Q3,2.87,1,2,0,0,0,0,2,0,1,1,0,0,0,0,0,20260115
+Oregon St.,False,nene sow,,EOG,28.25,3,5,0,0,1,4,7,1,4,5,0,0,0,6,6,20260115
+Oregon St.,False,nene sow,,Q1,5.08,1,2,0,0,0,0,2,1,1,2,0,0,0,2,0,20260115
+Oregon St.,False,nene sow,,Q2,9.85,1,1,0,0,0,0,2,0,1,1,0,0,0,3,1,20260115
+Oregon St.,False,nene sow,,Q3,5.82,1,1,0,0,1,2,3,0,2,2,0,0,0,1,3,20260115
+Oregon St.,False,nene sow,,Q4,7.5,0,1,0,0,0,2,0,0,0,0,0,0,0,0,2,20260115
+Oregon St.,False,team,,EOG,0.0,0,0,0,0,0,0,0,7,3,10,0,0,0,0,0,20260115
+Oregon St.,False,team,,Q1,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260115
+Oregon St.,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260115
+Oregon St.,False,team,,Q3,0.0,0,0,0,0,0,0,0,4,1,5,0,0,0,0,0,20260115
+Oregon St.,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,20260115
+Oregon St.,False,tiara bolden,,EOG,36.4,5,9,1,1,0,0,11,1,3,4,0,0,0,2,5,20260115
+Oregon St.,False,tiara bolden,,Q1,7.88,0,2,0,0,0,0,0,0,1,1,0,0,0,1,0,20260115
+Oregon St.,False,tiara bolden,,Q2,8.62,2,2,1,1,0,0,5,0,1,1,0,0,0,0,3,20260115
+Oregon St.,False,tiara bolden,,Q3,10.0,1,2,0,0,0,0,2,0,1,1,0,0,0,1,2,20260115
+Oregon St.,False,tiara bolden,,Q4,9.9,2,3,0,0,0,0,4,1,0,1,0,0,0,0,0,20260115

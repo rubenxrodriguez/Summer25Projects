@@ -1,0 +1,95 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,False,allison clarke,AC,EOG,27.68,2,5,2,5,1,2,7,0,0,0,0,0,0,0,2,20251213
+LMU,False,allison clarke,AC,Q1,6.7,1,3,1,3,0,0,3,0,0,0,0,0,0,0,0,20251213
+LMU,False,allison clarke,AC,Q2,9.98,1,1,1,1,0,0,3,0,0,0,0,0,0,0,0,20251213
+LMU,False,allison clarke,AC,Q3,7.25,0,0,0,0,1,2,1,0,0,0,0,0,0,0,2,20251213
+LMU,False,allison clarke,AC,Q4,3.75,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251213
+LMU,False,andjela matic,AM,EOG,14.55,0,3,0,3,0,0,0,0,1,1,0,0,0,0,1,20251213
+LMU,False,andjela matic,AM,Q1,5.45,0,2,0,2,0,0,0,0,0,0,0,0,0,0,1,20251213
+LMU,False,andjela matic,AM,Q2,2.5,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251213
+LMU,False,andjela matic,AM,Q3,2.75,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251213
+LMU,False,carly heidger,CH,EOG,34.12,4,11,0,4,1,2,9,1,2,3,0,0,0,0,2,20251213
+LMU,False,carly heidger,CH,Q1,8.6,1,2,0,1,0,0,2,0,1,1,0,0,0,0,0,20251213
+LMU,False,carly heidger,CH,Q2,8.47,2,3,0,0,0,0,4,0,0,0,0,0,0,0,0,20251213
+LMU,False,carly heidger,CH,Q3,8.3,1,3,0,1,0,0,2,1,0,1,0,0,0,0,1,20251213
+LMU,False,carly heidger,CH,Q4,8.75,0,3,0,2,1,2,1,0,1,1,0,0,0,0,1,20251213
+LMU,False,ivana krajina,IK,EOG,25.37,0,2,0,0,0,0,0,1,2,3,0,0,0,3,2,20251213
+LMU,False,ivana krajina,IK,Q1,4.82,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251213
+LMU,False,ivana krajina,IK,Q2,1.78,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251213
+LMU,False,ivana krajina,IK,Q3,10.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251213
+LMU,False,ivana krajina,IK,Q4,8.77,0,1,0,0,0,0,0,1,1,2,0,0,0,1,2,20251213
+LMU,False,jess lawson,JL,EOG,29.03,11,24,1,2,4,5,27,6,6,12,0,0,0,1,7,20251213
+LMU,False,jess lawson,JL,Q1,4.87,2,5,0,0,1,1,5,0,3,3,0,0,0,0,1,20251213
+LMU,False,jess lawson,JL,Q2,7.48,2,5,0,0,0,0,4,2,0,2,0,0,0,0,0,20251213
+LMU,False,jess lawson,JL,Q3,7.9,3,6,0,0,1,1,7,1,2,3,0,0,0,0,1,20251213
+LMU,False,jess lawson,JL,Q4,8.78,4,8,1,2,2,3,11,3,1,4,0,0,0,1,5,20251213
+LMU,False,kayla jones,KJ,EOG,9.98,0,3,0,0,0,2,0,1,0,1,0,0,0,0,2,20251213
+LMU,False,kayla jones,KJ,Q1,3.62,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,20251213
+LMU,False,kayla jones,KJ,Q3,3.25,0,1,0,0,0,2,0,1,0,1,0,0,0,0,2,20251213
+LMU,False,maya hernandez,MH,EOG,29.33,4,16,0,0,2,3,10,1,4,5,0,0,0,1,9,20251213
+LMU,False,maya hernandez,MH,Q1,8.3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,20251213
+LMU,False,maya hernandez,MH,Q2,4.28,3,5,0,0,0,1,6,0,2,2,0,0,0,0,1,20251213
+LMU,False,maya hernandez,MH,Q3,6.75,1,5,0,0,0,0,2,1,1,2,0,0,0,0,0,20251213
+LMU,False,maya hernandez,MH,Q4,10.0,0,1,0,0,2,2,2,0,1,1,0,0,0,1,5,20251213
+LMU,False,paula reus piza,PR,EOG,8.25,0,2,0,0,0,0,0,1,2,3,0,0,0,2,1,20251213
+LMU,False,paula reus piza,PR,Q1,1.33,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,20251213
+LMU,False,paula reus piza,PR,Q2,4.1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,20251213
+LMU,False,paula reus piza,PR,Q4,1.12,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,20251213
+LMU,False,team,,EOG,0.0,0,0,0,0,0,0,0,10,0,10,0,0,0,1,0,20251213
+LMU,False,team,,Q1,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,20251213
+LMU,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,20251213
+LMU,False,team,,Q3,0.0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,20251213
+LMU,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20251213
+LMU,False,zawadi ogot,ZO,EOG,21.85,5,7,0,0,1,5,11,3,0,3,0,0,0,4,6,20251213
+LMU,False,zawadi ogot,ZO,Q1,4.65,1,1,0,0,1,2,3,2,0,2,0,0,0,0,2,20251213
+LMU,False,zawadi ogot,ZO,Q2,9.98,1,2,0,0,0,1,2,0,0,0,0,0,0,0,1,20251213
+LMU,False,zawadi ogot,ZO,Q3,2.1,1,1,0,0,0,0,2,1,0,1,0,0,0,2,0,20251213
+LMU,False,zawadi ogot,ZO,Q4,5.12,2,3,0,0,0,2,4,0,0,0,0,0,0,2,3,20251213
+Wichita St.,True,abby cater,,EOG,34.1,7,13,1,4,8,8,23,1,3,4,0,0,0,1,8,20251213
+Wichita St.,True,abby cater,,Q1,6.7,2,3,1,1,4,4,9,0,1,1,0,0,0,1,4,20251213
+Wichita St.,True,abby cater,,Q2,7.4,1,3,0,1,0,0,2,0,0,0,0,0,0,0,0,20251213
+Wichita St.,True,abby cater,,Q3,10.0,2,4,0,1,0,0,4,1,0,1,0,0,0,0,1,20251213
+Wichita St.,True,abby cater,,Q4,10.0,2,3,0,1,4,4,8,0,2,2,0,0,0,0,3,20251213
+Wichita St.,True,bre'yon white,,EOG,6.72,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,20251213
+Wichita St.,True,bre'yon white,,Q1,4.88,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,20251213
+Wichita St.,True,diamond richardson,,EOG,7.65,0,2,0,1,0,0,0,0,1,1,0,0,0,3,2,20251213
+Wichita St.,True,diamond richardson,,Q1,2.82,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,20251213
+Wichita St.,True,diamond richardson,,Q2,2.58,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,20251213
+Wichita St.,True,diamond richardson,,Q3,1.63,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20251213
+Wichita St.,True,diamond richardson,,Q4,0.62,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,20251213
+Wichita St.,True,jaida mcdonald,,EOG,31.45,4,6,0,0,4,8,12,1,7,8,0,0,0,2,8,20251213
+Wichita St.,True,jaida mcdonald,,Q1,5.45,0,0,0,0,0,2,0,0,4,4,0,0,0,0,2,20251213
+Wichita St.,True,jaida mcdonald,,Q2,9.98,1,2,0,0,0,0,2,0,1,1,0,0,0,0,0,20251213
+Wichita St.,True,jaida mcdonald,,Q3,6.43,1,2,0,0,0,0,2,1,1,2,0,0,0,0,1,20251213
+Wichita St.,True,jaida mcdonald,,Q4,9.58,2,2,0,0,4,6,8,0,1,1,0,0,0,2,5,20251213
+Wichita St.,True,jaila harding,,EOG,35.28,4,11,4,10,1,2,13,0,1,1,0,0,0,1,1,20251213
+Wichita St.,True,jaila harding,,Q1,8.52,2,3,2,3,0,0,6,0,1,1,0,0,0,1,0,20251213
+Wichita St.,True,jaila harding,,Q2,8.98,2,2,2,2,0,0,6,0,0,0,0,0,0,0,0,20251213
+Wichita St.,True,jaila harding,,Q3,10.0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,20251213
+Wichita St.,True,jaila harding,,Q4,7.78,0,3,0,3,1,2,1,0,0,0,0,0,0,0,1,20251213
+Wichita St.,True,kyleigh ortiz,,EOG,15.1,2,3,2,3,0,0,6,0,2,2,0,0,0,1,0,20251213
+Wichita St.,True,kyleigh ortiz,,Q1,3.1,1,1,1,1,0,0,3,0,0,0,0,0,0,0,0,20251213
+Wichita St.,True,kyleigh ortiz,,Q2,1.78,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,20251213
+Wichita St.,True,kyleigh ortiz,,Q3,6.83,1,1,1,1,0,0,3,0,2,2,0,0,0,0,0,20251213
+Wichita St.,True,maimouna sissoko,,EOG,10.72,3,6,0,0,0,0,6,3,1,4,0,0,0,2,5,20251213
+Wichita St.,True,maimouna sissoko,,Q1,3.23,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,20251213
+Wichita St.,True,maimouna sissoko,,Q2,3.5,1,2,0,0,0,0,2,1,1,2,0,0,0,0,1,20251213
+Wichita St.,True,maimouna sissoko,,Q3,3.17,2,3,0,0,0,0,4,1,0,1,0,0,0,1,2,20251213
+Wichita St.,True,maimouna sissoko,,Q4,0.82,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,20251213
+Wichita St.,True,sophie benharouga,,EOG,7.83,2,3,1,1,0,0,5,2,2,4,0,0,0,1,1,20251213
+Wichita St.,True,sophie benharouga,,Q2,6.87,2,3,1,1,0,0,5,2,2,4,0,0,0,1,1,20251213
+Wichita St.,True,taya davis,,EOG,26.48,0,2,0,1,2,2,2,0,6,6,0,0,0,0,3,20251213
+Wichita St.,True,taya davis,,Q1,4.12,0,2,0,1,0,0,0,0,2,2,0,0,0,0,0,20251213
+Wichita St.,True,taya davis,,Q2,9.2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20251213
+Wichita St.,True,taya davis,,Q3,3.17,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251213
+Wichita St.,True,taya davis,,Q4,10.0,0,0,0,0,2,2,2,0,1,1,0,0,0,0,3,20251213
+Wichita St.,True,team,,EOG,0.0,0,0,0,0,0,0,0,5,3,8,0,0,0,1,0,20251213
+Wichita St.,True,team,,Q1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251213
+Wichita St.,True,team,,Q2,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251213
+Wichita St.,True,team,,Q3,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20251213
+Wichita St.,True,team,,Q4,0.0,0,0,0,0,0,0,0,2,2,4,0,0,0,1,0,20251213
+Wichita St.,True,treasure thompson,,EOG,24.92,2,3,0,0,0,0,4,1,5,6,0,0,0,8,4,20251213
+Wichita St.,True,treasure thompson,,Q1,5.58,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2,20251213
+Wichita St.,True,treasure thompson,,Q2,3.12,1,1,0,0,0,0,2,0,0,0,0,0,0,1,0,20251213
+Wichita St.,True,treasure thompson,,Q3,6.83,1,2,0,0,0,0,2,0,2,2,0,0,0,3,1,20251213
+Wichita St.,True,treasure thompson,,Q4,9.38,0,0,0,0,0,0,0,0,3,3,0,0,0,2,1,20251213

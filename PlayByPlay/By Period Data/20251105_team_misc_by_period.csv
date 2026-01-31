@@ -1,0 +1,11 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+LMU,True,EOG,14,7,4,24,20251105
+LMU,True,Q1,4,3,2,6,20251105
+LMU,True,Q2,1,0,0,8,20251105
+LMU,True,Q3,7,2,2,6,20251105
+LMU,True,Q4,2,2,0,4,20251105
+Utah Valley,False,EOG,22,3,4,36,20251105
+Utah Valley,False,Q1,4,0,0,6,20251105
+Utah Valley,False,Q2,7,1,2,12,20251105
+Utah Valley,False,Q3,4,2,2,14,20251105
+Utah Valley,False,Q4,7,0,0,4,20251105

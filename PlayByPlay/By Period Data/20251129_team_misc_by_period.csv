@@ -1,0 +1,11 @@
+team,isHome,period,PTS_POT,PTS_SCP,PTS_FBP,PTS_PIP,game_date
+Cal St. Fullerton,True,EOG,17,5,7,40,20251129
+Cal St. Fullerton,True,Q1,3,2,3,16,20251129
+Cal St. Fullerton,True,Q2,6,0,2,10,20251129
+Cal St. Fullerton,True,Q3,2,1,0,2,20251129
+Cal St. Fullerton,True,Q4,6,2,2,12,20251129
+LMU,False,EOG,11,6,15,28,20251129
+LMU,False,Q1,4,0,0,12,20251129
+LMU,False,Q2,3,4,2,4,20251129
+LMU,False,Q3,0,2,5,6,20251129
+LMU,False,Q4,4,0,8,6,20251129

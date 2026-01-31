@@ -1,0 +1,101 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,allison clarke,AC,EOG,33.33,1,4,1,4,2,3,5,0,0,0,0,0,0,0,2,20260104
+LMU,True,allison clarke,AC,OT1,5.0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,20260104
+LMU,True,allison clarke,AC,Q2,3.98,0,1,0,1,1,2,1,0,0,0,0,0,0,0,1,20260104
+LMU,True,allison clarke,AC,Q3,10.0,1,1,1,1,1,1,4,0,0,0,0,0,0,0,1,20260104
+LMU,True,andjela matic,AM,EOG,39.0,4,13,3,7,2,2,13,1,4,5,0,0,0,1,4,20260104
+LMU,True,andjela matic,AM,OT1,5.0,0,3,0,1,2,2,2,0,1,1,0,0,0,0,1,20260104
+LMU,True,andjela matic,AM,Q1,7.28,1,2,1,2,0,0,3,0,2,2,0,0,0,0,1,20260104
+LMU,True,andjela matic,AM,Q2,10.0,1,4,1,2,0,0,3,1,1,2,0,0,0,0,0,20260104
+LMU,True,andjela matic,AM,Q3,6.72,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260104
+LMU,True,andjela matic,AM,Q4,10.0,2,3,1,1,0,0,5,0,0,0,0,0,0,1,2,20260104
+LMU,True,carly heidger,CH,EOG,28.98,1,5,1,3,0,0,3,1,0,1,0,0,0,1,3,20260104
+LMU,True,carly heidger,CH,OT1,5.0,1,1,1,1,0,0,3,0,0,0,0,0,0,0,2,20260104
+LMU,True,carly heidger,CH,Q1,5.5,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,20260104
+LMU,True,carly heidger,CH,Q2,4.65,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260104
+LMU,True,carly heidger,CH,Q4,10.0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,20260104
+LMU,True,ivana krajina,IK,EOG,42.77,2,4,0,0,0,0,4,1,1,2,0,0,0,1,5,20260104
+LMU,True,ivana krajina,IK,OT1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260104
+LMU,True,ivana krajina,IK,Q1,8.47,2,2,0,0,0,0,4,0,0,0,0,0,0,0,0,20260104
+LMU,True,ivana krajina,IK,Q2,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20260104
+LMU,True,ivana krajina,IK,Q3,10.0,0,1,0,0,0,0,0,1,1,2,0,0,0,1,1,20260104
+LMU,True,ivana krajina,IK,Q4,9.3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20260104
+LMU,True,jess lawson,JL,EOG,33.97,11,24,0,0,10,13,32,6,3,9,0,0,0,1,10,20260104
+LMU,True,jess lawson,JL,Q1,6.25,2,5,0,0,1,2,5,2,1,3,0,0,0,0,1,20260104
+LMU,True,jess lawson,JL,Q2,5.6,1,1,0,0,2,2,4,0,1,1,0,0,0,0,2,20260104
+LMU,True,jess lawson,JL,Q3,7.12,3,6,0,0,2,2,8,1,0,1,0,0,0,0,3,20260104
+LMU,True,jess lawson,JL,Q4,10.0,5,12,0,0,5,7,15,3,1,4,0,0,0,1,4,20260104
+LMU,True,kayla jones,KJ,EOG,7.52,2,2,0,0,0,0,4,0,1,1,0,0,0,1,1,20260104
+LMU,True,kayla jones,KJ,Q2,5.17,2,2,0,0,0,0,4,0,1,1,0,0,0,1,1,20260104
+LMU,True,mari somvichian,MS,EOG,3.98,0,0,0,0,2,2,2,0,1,1,0,0,0,0,1,20260104
+LMU,True,mari somvichian,MS,Q2,3.98,0,0,0,0,2,2,2,0,1,1,0,0,0,0,1,20260104
+LMU,True,maya hernandez,MH,EOG,37.02,7,16,0,1,5,8,19,4,6,10,0,0,0,0,9,20260104
+LMU,True,maya hernandez,MH,OT1,5.0,1,2,0,1,1,2,3,0,2,2,0,0,0,0,2,20260104
+LMU,True,maya hernandez,MH,Q1,7.18,4,5,0,0,0,0,8,0,0,0,0,0,0,0,0,20260104
+LMU,True,maya hernandez,MH,Q2,4.83,0,1,0,0,1,2,1,0,1,1,0,0,0,0,2,20260104
+LMU,True,maya hernandez,MH,Q3,10.0,1,6,0,0,3,4,5,2,1,3,0,0,0,0,3,20260104
+LMU,True,maya hernandez,MH,Q4,10.0,1,2,0,0,0,0,2,2,2,4,0,0,0,0,2,20260104
+LMU,True,paula reus piza,PR,EOG,19.37,0,4,0,2,0,0,0,0,2,2,0,0,0,3,2,20260104
+LMU,True,paula reus piza,PR,Q1,4.48,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260104
+LMU,True,paula reus piza,PR,Q2,5.35,0,2,0,1,0,0,0,0,2,2,0,0,0,0,1,20260104
+LMU,True,paula reus piza,PR,Q3,6.17,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,20260104
+LMU,True,paula reus piza,PR,Q4,2.78,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20260104
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,11,4,15,0,0,0,2,0,20260104
+LMU,True,team,,OT1,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,1,0,20260104
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,2,3,5,0,0,0,1,0,20260104
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260104
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20260104
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,3,1,4,0,0,0,0,0,20260104
+LMU,True,zawadi ogot,ZO,EOG,9.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,20260104
+LMU,True,zawadi ogot,ZO,Q1,1.03,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,20260104
+LMU,True,zawadi ogot,ZO,Q3,3.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260104
+San Francisco,False,aina cargol,,EOG,37.97,4,10,1,3,8,10,17,0,3,3,0,0,0,2,10,20260104
+San Francisco,False,aina cargol,,OT1,5.0,0,1,0,0,6,8,6,0,1,1,0,0,0,0,4,20260104
+San Francisco,False,aina cargol,,Q1,6.38,1,3,0,1,0,0,2,0,0,0,0,0,0,1,1,20260104
+San Francisco,False,aina cargol,,Q2,8.07,1,3,0,1,0,0,2,0,1,1,0,0,0,0,0,20260104
+San Francisco,False,aina cargol,,Q3,8.52,0,1,0,0,2,2,2,0,0,0,0,0,0,0,1,20260104
+San Francisco,False,aina cargol,,Q4,10.0,2,2,1,1,0,0,5,0,1,1,0,0,0,1,4,20260104
+San Francisco,False,candy edokpaigbe,,EOG,36.47,6,10,0,1,5,6,17,0,2,2,0,0,0,2,8,20260104
+San Francisco,False,candy edokpaigbe,,OT1,5.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260104
+San Francisco,False,candy edokpaigbe,,Q1,8.88,1,3,0,0,0,0,2,0,0,0,0,0,0,1,2,20260104
+San Francisco,False,candy edokpaigbe,,Q2,5.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260104
+San Francisco,False,candy edokpaigbe,,Q3,8.07,4,5,0,0,0,0,8,0,1,1,0,0,0,1,1,20260104
+San Francisco,False,candy edokpaigbe,,Q4,8.55,1,2,0,1,5,6,7,0,0,0,0,0,0,0,4,20260104
+San Francisco,False,mara neira,,EOG,32.48,8,15,3,7,0,0,19,0,5,5,0,0,0,4,4,20260104
+San Francisco,False,mara neira,,OT1,5.0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,20260104
+San Francisco,False,mara neira,,Q1,5.92,1,2,1,1,0,0,3,0,1,1,0,0,0,2,0,20260104
+San Francisco,False,mara neira,,Q2,8.95,3,5,0,2,0,0,6,0,3,3,0,0,0,0,3,20260104
+San Francisco,False,mara neira,,Q3,6.27,2,3,1,2,0,0,5,0,0,0,0,0,0,1,0,20260104
+San Francisco,False,mara neira,,Q4,6.35,2,4,1,1,0,0,5,0,0,0,0,0,0,0,1,20260104
+San Francisco,False,meghan mcintyre,,EOG,14.48,2,3,0,1,1,1,5,0,1,1,0,0,0,0,2,20260104
+San Francisco,False,meghan mcintyre,,Q2,6.77,1,2,0,1,0,0,2,0,1,1,0,0,0,0,0,20260104
+San Francisco,False,meghan mcintyre,,Q3,1.93,1,1,0,0,1,1,3,0,0,0,0,0,0,0,2,20260104
+San Francisco,False,natasa tausova,,EOG,27.9,3,6,0,0,0,0,6,0,4,4,0,0,0,1,2,20260104
+San Francisco,False,natasa tausova,,Q1,6.18,1,2,0,0,0,0,2,0,1,1,0,0,0,0,0,20260104
+San Francisco,False,natasa tausova,,Q2,6.97,1,3,0,0,0,0,2,0,0,0,0,0,0,0,1,20260104
+San Francisco,False,natasa tausova,,Q3,8.2,1,1,0,0,0,0,2,0,2,2,0,0,0,0,0,20260104
+San Francisco,False,natasa tausova,,Q4,5.25,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,20260104
+San Francisco,False,nevaeh ferrara horne,,EOG,11.68,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20260104
+San Francisco,False,nevaeh ferrara horne,,Q2,2.15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20260104
+San Francisco,False,noelia mourino,,EOG,31.48,2,6,0,0,2,2,6,3,4,7,0,0,0,2,6,20260104
+San Francisco,False,noelia mourino,,OT1,5.0,1,2,0,0,0,0,2,1,0,1,0,0,0,0,1,20260104
+San Francisco,False,noelia mourino,,Q1,5.55,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20260104
+San Francisco,False,noelia mourino,,Q2,7.02,0,1,0,0,2,2,2,1,0,1,0,0,0,0,1,20260104
+San Francisco,False,noelia mourino,,Q3,7.37,0,0,0,0,0,0,0,1,2,3,0,0,0,1,3,20260104
+San Francisco,False,noelia mourino,,Q4,6.55,0,1,0,0,0,0,0,0,2,2,0,0,0,1,1,20260104
+San Francisco,False,paula tirado,,EOG,24.08,4,6,1,2,2,2,11,1,3,4,0,0,0,0,3,20260104
+San Francisco,False,paula tirado,,OT1,3.7,1,1,1,1,0,0,3,0,1,1,0,0,0,0,1,20260104
+San Francisco,False,paula tirado,,Q1,6.83,2,2,0,0,2,2,6,1,1,2,0,0,0,0,1,20260104
+San Francisco,False,paula tirado,,Q2,5.17,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,20260104
+San Francisco,False,paula tirado,,Q3,3.28,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,20260104
+San Francisco,False,paula tirado,,Q4,5.1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260104
+San Francisco,False,sol castro,,EOG,16.27,2,3,0,0,0,0,4,3,1,4,0,0,0,1,4,20260104
+San Francisco,False,sol castro,,OT1,0.43,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260104
+San Francisco,False,sol castro,,Q2,2.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20260104
+San Francisco,False,sol castro,,Q3,5.53,2,3,0,0,0,0,4,3,1,4,0,0,0,0,2,20260104
+San Francisco,False,team,,EOG,0.0,0,0,0,0,0,0,0,2,4,6,0,0,0,1,1,20260104
+San Francisco,False,team,,OT1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260104
+San Francisco,False,team,,Q1,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260104
+San Francisco,False,team,,Q2,0.0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20260104
+San Francisco,False,team,,Q3,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20260104
+San Francisco,False,team,,Q4,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,20260104

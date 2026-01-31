@@ -1,0 +1,93 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,ana milanovic,AM7,EOG,5.62,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,20251205
+LMU,True,ana milanovic,AM7,Q1,1.63,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251205
+LMU,True,ana milanovic,AM7,Q2,2.2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,20251205
+LMU,True,andjela matic,AM,EOG,35.63,4,10,2,4,0,2,10,0,3,3,0,0,0,1,2,20251205
+LMU,True,andjela matic,AM,Q1,6.25,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,20251205
+LMU,True,andjela matic,AM,Q2,9.38,1,3,1,2,0,0,3,0,2,2,0,0,0,1,0,20251205
+LMU,True,andjela matic,AM,Q3,10.0,3,4,1,1,0,0,7,0,0,0,0,0,0,0,0,20251205
+LMU,True,andjela matic,AM,Q4,10.0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,2,20251205
+LMU,True,carly heidger,CH,EOG,32.77,0,7,0,2,1,2,1,5,1,6,0,0,0,1,4,20251205
+LMU,True,carly heidger,CH,Q1,8.33,0,2,0,2,0,0,0,0,0,0,0,0,0,1,1,20251205
+LMU,True,carly heidger,CH,Q2,7.8,0,3,0,0,0,0,0,4,0,4,0,0,0,0,2,20251205
+LMU,True,carly heidger,CH,Q3,7.35,0,2,0,0,0,0,0,1,1,2,0,0,0,0,0,20251205
+LMU,True,carly heidger,CH,Q4,9.28,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,20251205
+LMU,True,ivana krajina,IK,EOG,31.83,3,3,1,1,0,0,7,0,2,2,0,0,0,3,4,20251205
+LMU,True,ivana krajina,IK,Q1,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+LMU,True,ivana krajina,IK,Q2,10.0,1,1,1,1,0,0,3,0,0,0,0,0,0,2,0,20251205
+LMU,True,ivana krajina,IK,Q3,7.82,1,1,0,0,0,0,2,0,1,1,0,0,0,0,3,20251205
+LMU,True,ivana krajina,IK,Q4,9.22,1,1,0,0,0,0,2,0,1,1,0,0,0,0,1,20251205
+LMU,True,jess lawson,JL,EOG,31.52,4,14,0,3,5,10,13,5,8,13,0,0,0,1,9,20251205
+LMU,True,jess lawson,JL,Q1,6.88,1,2,0,0,2,2,4,0,2,2,0,0,0,0,1,20251205
+LMU,True,jess lawson,JL,Q2,9.25,0,4,0,1,1,4,1,3,4,7,0,0,0,1,3,20251205
+LMU,True,jess lawson,JL,Q3,5.38,1,4,0,2,0,0,2,1,2,3,0,0,0,0,0,20251205
+LMU,True,jess lawson,JL,Q4,10.0,2,4,0,0,2,4,6,1,0,1,0,0,0,0,5,20251205
+LMU,True,kayla jones,KJ,EOG,5.02,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20251205
+LMU,True,kayla jones,KJ,Q3,3.52,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20251205
+LMU,True,maya hernandez,MH,EOG,24.75,6,8,0,0,3,6,15,1,2,3,0,0,0,4,8,20251205
+LMU,True,maya hernandez,MH,Q1,6.32,2,3,0,0,0,0,4,0,1,1,0,0,0,1,0,20251205
+LMU,True,maya hernandez,MH,Q2,6.43,0,0,0,0,0,2,0,0,0,0,0,0,0,2,3,20251205
+LMU,True,maya hernandez,MH,Q3,4.12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,20251205
+LMU,True,maya hernandez,MH,Q4,7.88,4,5,0,0,3,4,11,1,1,2,0,0,0,0,2,20251205
+LMU,True,paula reus piza,PR,EOG,13.43,2,6,0,0,3,4,7,3,0,3,0,0,0,2,3,20251205
+LMU,True,paula reus piza,PR,Q1,3.02,0,1,0,0,1,2,1,2,0,2,0,0,0,1,1,20251205
+LMU,True,paula reus piza,PR,Q2,5.22,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+LMU,True,paula reus piza,PR,Q3,2.37,2,3,0,0,0,0,4,1,0,1,0,0,0,0,1,20251205
+LMU,True,paula reus piza,PR,Q4,2.83,0,1,0,0,2,2,2,0,0,0,0,0,0,0,1,20251205
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,8,1,9,0,0,0,1,0,20251205
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251205
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,20251205
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,20251205
+LMU,True,zawadi ogot,ZO,EOG,19.22,4,5,0,0,0,0,8,2,3,5,0,0,0,2,4,20251205
+LMU,True,zawadi ogot,ZO,Q1,6.1,3,4,0,0,0,0,6,0,1,1,0,0,0,1,1,20251205
+LMU,True,zawadi ogot,ZO,Q2,1.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251205
+LMU,True,zawadi ogot,ZO,Q3,6.8,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,20251205
+LMU,True,zawadi ogot,ZO,Q4,4.95,1,1,0,0,0,0,2,2,1,3,0,0,0,1,0,20251205
+Utah St.,False,aaliyah gayles,,EOG,32.05,2,9,2,6,6,9,12,0,3,3,0,0,0,5,9,20251205
+Utah St.,False,aaliyah gayles,,Q1,4.45,0,2,0,1,1,2,1,0,0,0,0,0,0,1,2,20251205
+Utah St.,False,aaliyah gayles,,Q2,9.38,0,3,0,2,0,0,0,0,1,1,0,0,0,1,0,20251205
+Utah St.,False,aaliyah gayles,,Q3,8.22,1,2,1,1,1,3,4,0,0,0,0,0,0,1,2,20251205
+Utah St.,False,aaliyah gayles,,Q4,10.0,1,2,1,2,4,4,7,0,2,2,0,0,0,2,5,20251205
+Utah St.,False,aitana rosello lopez,,EOG,20.15,3,4,0,1,0,1,6,0,2,2,0,0,0,1,2,20251205
+Utah St.,False,aitana rosello lopez,,Q1,3.02,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251205
+Utah St.,False,aitana rosello lopez,,Q2,5.85,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20251205
+Utah St.,False,aitana rosello lopez,,Q3,6.8,3,3,0,0,0,1,6,0,1,1,0,0,0,0,1,20251205
+Utah St.,False,bella cosme,,EOG,5.88,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+Utah St.,False,bella cosme,,Q1,4.07,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+Utah St.,False,elise livingston,,EOG,27.9,4,6,1,3,0,0,9,0,1,1,0,0,0,4,4,20251205
+Utah St.,False,elise livingston,,Q1,5.58,1,2,1,2,0,0,3,0,1,1,0,0,0,2,0,20251205
+Utah St.,False,elise livingston,,Q2,3.35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,20251205
+Utah St.,False,elise livingston,,Q3,8.97,1,1,0,0,0,0,2,0,0,0,0,0,0,1,2,20251205
+Utah St.,False,elise livingston,,Q4,10.0,2,3,0,1,0,0,4,0,0,0,0,0,0,0,0,20251205
+Utah St.,False,jamisyn heaton,,EOG,26.22,3,4,0,0,2,3,8,1,3,4,0,0,0,1,7,20251205
+Utah St.,False,jamisyn heaton,,Q1,3.02,1,1,0,0,0,0,2,0,1,1,0,0,0,1,0,20251205
+Utah St.,False,jamisyn heaton,,Q2,9.47,2,3,0,0,1,1,5,1,1,2,0,0,0,0,3,20251205
+Utah St.,False,jamisyn heaton,,Q3,4.73,0,0,0,0,1,2,1,0,1,1,0,0,0,0,1,20251205
+Utah St.,False,jamisyn heaton,,Q4,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,20251205
+Utah St.,False,karyn sanford,,EOG,17.75,0,1,0,1,0,0,0,1,1,2,0,0,0,1,1,20251205
+Utah St.,False,karyn sanford,,Q1,6.25,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,20251205
+Utah St.,False,karyn sanford,,Q4,8.52,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,20251205
+Utah St.,False,marina asensio,,EOG,35.13,5,11,2,7,2,2,14,0,2,2,0,0,0,3,5,20251205
+Utah St.,False,marina asensio,,Q1,7.43,2,4,2,4,0,0,6,0,0,0,0,0,0,0,0,20251205
+Utah St.,False,marina asensio,,Q2,9.32,0,2,0,1,0,0,0,0,2,2,0,0,0,2,1,20251205
+Utah St.,False,marina asensio,,Q3,8.38,0,0,0,0,2,2,2,0,0,0,0,0,0,0,1,20251205
+Utah St.,False,marina asensio,,Q4,10.0,3,5,0,2,0,0,6,0,0,0,0,0,0,1,3,20251205
+Utah St.,False,paloma munoz herreros,,EOG,13.13,1,1,0,0,1,2,3,0,1,1,0,0,0,1,4,20251205
+Utah St.,False,paloma munoz herreros,,Q1,1.17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20251205
+Utah St.,False,paloma munoz herreros,,Q2,8.23,1,1,0,0,1,2,3,0,1,1,0,0,0,0,3,20251205
+Utah St.,False,rachel wilson,,EOG,15.63,1,3,0,0,2,2,4,1,2,3,0,0,0,2,4,20251205
+Utah St.,False,rachel wilson,,Q1,4.03,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,20251205
+Utah St.,False,rachel wilson,,Q2,0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+Utah St.,False,rachel wilson,,Q3,6.1,0,1,0,0,2,2,2,0,1,1,0,0,0,0,3,20251205
+Utah St.,False,rachel wilson,,Q4,5.13,1,1,0,0,0,0,2,0,1,1,0,0,0,1,0,20251205
+Utah St.,False,sophie sene,,EOG,11.18,1,4,0,0,0,0,2,2,2,4,0,0,0,1,1,20251205
+Utah St.,False,sophie sene,,Q1,5.93,1,1,0,0,0,0,2,0,2,2,0,0,0,0,0,20251205
+Utah St.,False,sophie sene,,Q2,0.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251205
+Utah St.,False,sophie sene,,Q3,3.4,0,3,0,0,0,0,0,2,0,2,0,0,0,0,0,20251205
+Utah St.,False,sophie sene,,Q4,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205
+Utah St.,False,team,,EOG,0.0,0,0,0,0,0,0,0,4,3,7,0,0,0,1,0,20251205
+Utah St.,False,team,,Q1,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251205
+Utah St.,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251205
+Utah St.,False,team,,Q3,0.0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,20251205
+Utah St.,False,team,,Q4,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251205

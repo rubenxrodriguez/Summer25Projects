@@ -1,0 +1,90 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,True,allison clarke,AC,EOG,26.6,0,6,0,5,3,3,3,0,2,2,0,0,0,1,4,20251220
+LMU,True,allison clarke,AC,Q1,4.65,0,2,0,2,3,3,3,0,1,1,0,0,0,0,1,20251220
+LMU,True,allison clarke,AC,Q2,10.0,0,3,0,2,0,0,0,0,1,1,0,0,0,0,2,20251220
+LMU,True,allison clarke,AC,Q3,10.0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,20251220
+LMU,True,allison clarke,AC,Q4,1.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251220
+LMU,True,andjela matic,AM,EOG,29.92,4,9,2,4,0,0,10,1,2,3,0,0,0,1,1,20251220
+LMU,True,andjela matic,AM,Q1,8.18,0,2,0,0,0,0,0,1,1,2,0,0,0,1,1,20251220
+LMU,True,andjela matic,AM,Q2,7.85,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20251220
+LMU,True,andjela matic,AM,Q3,6.98,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20251220
+LMU,True,andjela matic,AM,Q4,6.9,2,4,2,4,0,0,6,0,1,1,0,0,0,0,0,20251220
+LMU,True,carly heidger,CH,EOG,29.72,3,6,2,4,0,0,8,1,3,4,0,0,0,1,5,20251220
+LMU,True,carly heidger,CH,Q1,6.85,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20251220
+LMU,True,carly heidger,CH,Q2,8.37,1,1,0,0,0,0,2,1,0,1,0,0,0,0,0,20251220
+LMU,True,carly heidger,CH,Q3,9.05,1,2,1,2,0,0,3,0,2,2,0,0,0,0,1,20251220
+LMU,True,carly heidger,CH,Q4,5.45,1,2,1,2,0,0,3,0,1,1,0,0,0,1,3,20251220
+LMU,True,ivana krajina,IK,EOG,34.02,0,3,0,2,0,0,0,0,0,0,0,0,0,1,4,20251220
+LMU,True,ivana krajina,IK,Q1,4.23,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,20251220
+LMU,True,ivana krajina,IK,Q3,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,20251220
+LMU,True,ivana krajina,IK,Q4,9.78,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,20251220
+LMU,True,jess lawson,JL,EOG,23.45,3,7,0,1,2,3,8,3,5,8,0,0,0,2,6,20251220
+LMU,True,jess lawson,JL,Q1,6.17,1,2,0,0,0,0,2,1,2,3,0,0,0,1,0,20251220
+LMU,True,jess lawson,JL,Q2,3.72,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,20251220
+LMU,True,jess lawson,JL,Q3,6.2,2,3,0,0,2,3,6,2,2,4,0,0,0,1,3,20251220
+LMU,True,jess lawson,JL,Q4,7.37,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,20251220
+LMU,True,kayla jones,KJ,EOG,16.23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,20251220
+LMU,True,kayla jones,KJ,Q1,2.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20251220
+LMU,True,kayla jones,KJ,Q3,3.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251220
+LMU,True,kayla jones,KJ,Q4,0.93,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251220
+LMU,True,mari somvichian,MS,EOG,3.8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,20251220
+LMU,True,mari somvichian,MS,Q3,3.8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,20251220
+LMU,True,maya hernandez,MH,EOG,33.65,7,14,0,0,2,4,16,3,2,5,0,0,0,4,9,20251220
+LMU,True,maya hernandez,MH,Q1,6.78,3,6,0,0,0,0,6,0,0,0,0,0,0,0,1,20251220
+LMU,True,maya hernandez,MH,Q2,8.73,1,3,0,0,0,0,2,1,2,3,0,0,0,1,3,20251220
+LMU,True,maya hernandez,MH,Q3,9.07,1,2,0,0,0,0,2,1,0,1,0,0,0,1,2,20251220
+LMU,True,maya hernandez,MH,Q4,9.07,2,3,0,0,2,4,6,1,0,1,0,0,0,2,3,20251220
+LMU,True,paula reus piza,PR,EOG,10.55,1,2,0,1,0,0,2,0,4,4,0,0,0,2,0,20251220
+LMU,True,paula reus piza,PR,Q1,3.1,1,1,0,0,0,0,2,0,2,2,0,0,0,0,0,20251220
+LMU,True,paula reus piza,PR,Q2,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20251220
+LMU,True,paula reus piza,PR,Q4,4.55,0,1,0,1,0,0,0,0,2,2,0,0,0,1,0,20251220
+LMU,True,team,,EOG,0.0,0,0,0,0,0,0,0,3,2,5,0,0,0,0,0,20251220
+LMU,True,team,,Q1,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251220
+LMU,True,team,,Q2,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251220
+LMU,True,team,,Q3,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251220
+LMU,True,team,,Q4,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251220
+LMU,True,zawadi ogot,ZO,EOG,24.67,5,9,0,0,3,3,13,1,0,1,0,0,0,0,5,20251220
+LMU,True,zawadi ogot,ZO,Q2,10.0,3,4,0,0,0,0,6,0,0,0,0,0,0,0,1,20251220
+LMU,True,zawadi ogot,ZO,Q3,6.07,2,5,0,0,3,3,7,1,0,1,0,0,0,0,3,20251220
+LMU,True,zawadi ogot,ZO,Q4,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251220
+Weber St.,False,antoniette emma-nnopu,,EOG,27.23,6,12,0,0,2,4,14,5,4,9,0,0,0,4,12,20251220
+Weber St.,False,antoniette emma-nnopu,,Q1,5.67,0,2,0,0,0,0,0,1,1,2,0,0,0,1,2,20251220
+Weber St.,False,antoniette emma-nnopu,,Q2,4.18,1,1,0,0,0,0,2,0,1,1,0,0,0,1,1,20251220
+Weber St.,False,antoniette emma-nnopu,,Q3,7.38,2,3,0,0,0,0,4,0,0,0,0,0,0,1,3,20251220
+Weber St.,False,antoniette emma-nnopu,,Q4,10.0,3,6,0,0,2,4,8,4,2,6,0,0,0,1,6,20251220
+Weber St.,False,fui niumeitolu,,EOG,26.9,3,3,0,0,1,1,7,0,1,1,0,0,0,0,3,20251220
+Weber St.,False,fui niumeitolu,,Q2,6.87,2,2,0,0,0,0,4,0,0,0,0,0,0,0,1,20251220
+Weber St.,False,fui niumeitolu,,Q3,6.77,1,1,0,0,1,1,3,0,1,1,0,0,0,0,2,20251220
+Weber St.,False,hannah robbins,,EOG,37.8,5,10,2,4,3,4,15,0,1,1,0,0,0,2,4,20251220
+Weber St.,False,hannah robbins,,Q1,9.53,0,0,0,0,2,2,2,0,1,1,0,0,0,1,1,20251220
+Weber St.,False,hannah robbins,,Q2,10.0,2,4,2,3,0,0,6,0,0,0,0,0,0,1,1,20251220
+Weber St.,False,hannah robbins,,Q3,8.27,1,1,0,0,1,2,3,0,0,0,0,0,0,0,2,20251220
+Weber St.,False,hannah robbins,,Q4,10.0,2,5,0,1,0,0,4,0,0,0,0,0,0,0,0,20251220
+Weber St.,False,lanae billy,,EOG,31.27,3,7,2,6,6,8,14,0,8,8,0,0,0,3,7,20251220
+Weber St.,False,lanae billy,,Q1,6.22,1,2,0,1,0,0,2,0,4,4,0,0,0,1,1,20251220
+Weber St.,False,lanae billy,,Q2,6.25,0,0,0,0,2,2,2,0,2,2,0,0,0,0,2,20251220
+Weber St.,False,lanae billy,,Q3,8.8,1,3,1,3,1,2,4,0,1,1,0,0,0,2,2,20251220
+Weber St.,False,lanae billy,,Q4,10.0,1,2,1,2,3,4,6,0,1,1,0,0,0,0,2,20251220
+Weber St.,False,makenna shaffer,,EOG,36.13,2,6,1,2,2,2,7,1,1,2,0,0,0,2,5,20251220
+Weber St.,False,makenna shaffer,,Q1,6.13,2,2,1,1,2,2,7,0,0,0,0,0,0,0,2,20251220
+Weber St.,False,makenna shaffer,,Q2,10.0,0,3,0,1,0,0,0,1,1,2,0,0,0,2,0,20251220
+Weber St.,False,makenna shaffer,,Q3,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,20251220
+Weber St.,False,makenna shaffer,,Q4,10.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20251220
+Weber St.,False,nicole willardson,,EOG,24.93,0,0,0,0,0,2,0,0,2,2,0,0,0,0,2,20251220
+Weber St.,False,nicole willardson,,Q1,4.28,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,20251220
+Weber St.,False,nicole willardson,,Q2,5.82,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251220
+Weber St.,False,nicole willardson,,Q3,4.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251220
+Weber St.,False,paris lauro,,EOG,16.52,1,1,0,0,0,0,2,0,3,3,0,0,0,1,1,20251220
+Weber St.,False,paris lauro,,Q1,2.22,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251220
+Weber St.,False,paris lauro,,Q3,4.3,1,1,0,0,0,0,2,0,1,1,0,0,0,0,1,20251220
+Weber St.,False,paris lauro,,Q4,10.0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,20251220
+Weber St.,False,sydney white,,EOG,31.18,3,6,0,0,3,5,9,0,0,0,0,0,0,4,5,20251220
+Weber St.,False,sydney white,,Q1,8.35,1,4,0,0,0,1,2,0,0,0,0,0,0,1,1,20251220
+Weber St.,False,sydney white,,Q2,6.88,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20251220
+Weber St.,False,sydney white,,Q3,6.17,2,2,0,0,0,0,4,0,0,0,0,0,0,1,0,20251220
+Weber St.,False,sydney white,,Q4,9.78,0,0,0,0,3,4,3,0,0,0,0,0,0,1,3,20251220
+Weber St.,False,team,,EOG,0.0,0,0,0,0,0,0,0,5,5,10,0,0,0,1,0,20251220
+Weber St.,False,team,,Q1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20251220
+Weber St.,False,team,,Q2,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,20251220
+Weber St.,False,team,,Q3,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251220
+Weber St.,False,team,,Q4,0.0,0,0,0,0,0,0,0,2,3,5,0,0,0,0,0,20251220

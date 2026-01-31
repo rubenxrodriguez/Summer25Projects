@@ -1,0 +1,99 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+Hawaii,True,bailey flavell,,EOG,28.78,2,6,1,1,4,6,9,0,2,2,0,0,0,0,9,20251121
+Hawaii,True,bailey flavell,,Q1,9.32,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,20251121
+Hawaii,True,bailey flavell,,Q2,1.3,1,2,1,1,0,0,3,0,0,0,0,0,0,0,2,20251121
+Hawaii,True,bailey flavell,,Q3,8.17,0,2,0,0,2,2,2,0,1,1,0,0,0,0,1,20251121
+Hawaii,True,bailey flavell,,Q4,10.0,1,2,0,0,2,4,4,0,0,0,0,0,0,0,5,20251121
+Hawaii,True,danijela kujovic,,EOG,17.33,1,3,1,2,1,2,4,0,4,4,0,0,0,1,4,20251121
+Hawaii,True,danijela kujovic,,Q1,3.63,1,2,1,1,0,0,3,0,1,1,0,0,0,0,1,20251121
+Hawaii,True,danijela kujovic,,Q2,2.28,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,20251121
+Hawaii,True,danijela kujovic,,Q3,8.08,0,0,0,0,0,0,0,0,2,2,0,0,0,1,2,20251121
+Hawaii,True,danijela kujovic,,Q4,3.33,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,20251121
+Hawaii,True,imani perez,,EOG,24.47,0,0,0,0,2,2,2,1,2,3,0,0,0,0,3,20251121
+Hawaii,True,imani perez,,Q1,7.73,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,20251121
+Hawaii,True,imani perez,,Q3,9.95,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251121
+Hawaii,True,imani perez,,Q4,4.13,0,0,0,0,2,2,2,0,0,0,0,0,0,0,2,20251121
+Hawaii,True,izzy forsyth,,EOG,3.67,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251121
+Hawaii,True,izzy forsyth,,Q2,3.67,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251121
+Hawaii,True,jade peacock,,EOG,6.18,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,20251121
+Hawaii,True,jade peacock,,Q1,2.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251121
+Hawaii,True,jade peacock,,Q2,3.27,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20251121
+Hawaii,True,keiara curtis,,EOG,25.68,2,4,2,3,0,0,6,0,1,1,0,0,0,3,6,20251121
+Hawaii,True,keiara curtis,,Q1,6.2,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,20251121
+Hawaii,True,keiara curtis,,Q2,4.7,1,1,1,1,0,0,3,0,0,0,0,0,0,1,1,20251121
+Hawaii,True,keiara curtis,,Q3,6.92,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20251121
+Hawaii,True,keiara curtis,,Q4,7.87,1,2,1,2,0,0,3,0,0,0,0,0,0,1,3,20251121
+Hawaii,True,kira-may filemu,,EOG,13.03,2,5,1,3,0,0,5,0,0,0,0,0,0,1,1,20251121
+Hawaii,True,kira-may filemu,,Q1,4.57,1,2,0,1,0,0,2,0,0,0,0,0,0,0,0,20251121
+Hawaii,True,kira-may filemu,,Q2,3.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251121
+Hawaii,True,kira-may filemu,,Q3,1.78,1,2,1,1,0,0,3,0,0,0,0,0,0,0,0,20251121
+Hawaii,True,kira-may filemu,,Q4,2.97,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,20251121
+Hawaii,True,kyra webb,,EOG,17.6,4,6,0,1,0,1,8,1,3,4,0,0,0,0,4,20251121
+Hawaii,True,kyra webb,,Q2,9.9,3,5,0,1,0,1,6,1,2,3,0,0,0,0,2,20251121
+Hawaii,True,kyra webb,,Q3,3.62,1,1,0,0,0,0,2,0,1,1,0,0,0,0,2,20251121
+Hawaii,True,rebecca moors,,EOG,8.95,1,1,0,0,0,1,2,0,4,4,0,0,0,2,3,20251121
+Hawaii,True,rebecca moors,,Q1,2.73,1,1,0,0,0,1,2,0,0,0,0,0,0,1,2,20251121
+Hawaii,True,rebecca moors,,Q3,4.95,0,0,0,0,0,0,0,0,3,3,0,0,0,1,1,20251121
+Hawaii,True,rebecca moors,,Q4,1.27,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20251121
+Hawaii,True,ritorya tamilo,,EOG,12.4,1,7,0,0,1,2,3,0,0,0,0,0,0,1,4,20251121
+Hawaii,True,ritorya tamilo,,Q1,2.2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,20251121
+Hawaii,True,ritorya tamilo,,Q2,4.22,1,2,0,0,0,0,2,0,0,0,0,0,0,0,0,20251121
+Hawaii,True,ritorya tamilo,,Q3,3.3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,3,20251121
+Hawaii,True,ritorya tamilo,,Q4,2.68,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,20251121
+Hawaii,True,saniyah neverson,,EOG,26.1,4,7,1,2,1,4,10,1,4,5,0,0,0,0,6,20251121
+Hawaii,True,saniyah neverson,,Q1,6.12,1,3,0,1,0,0,2,0,2,2,0,0,0,0,1,20251121
+Hawaii,True,saniyah neverson,,Q2,8.12,2,2,0,0,0,2,4,0,0,0,0,0,0,0,3,20251121
+Hawaii,True,saniyah neverson,,Q3,1.87,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20251121
+Hawaii,True,saniyah neverson,,Q4,10.0,1,1,1,1,1,2,4,1,2,3,0,0,0,0,1,20251121
+Hawaii,True,team,,EOG,0.0,0,0,0,0,0,0,0,8,3,11,0,0,0,0,0,20251121
+Hawaii,True,team,,Q1,0.0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,20251121
+Hawaii,True,team,,Q2,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20251121
+Hawaii,True,team,,Q3,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20251121
+Hawaii,True,team,,Q4,0.0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,20251121
+Hawaii,True,teyahna bond,,EOG,23.17,3,7,0,1,0,0,6,2,1,3,0,0,0,4,3,20251121
+Hawaii,True,teyahna bond,,Q1,5.57,0,1,0,0,0,0,0,1,0,1,0,0,0,2,1,20251121
+Hawaii,True,teyahna bond,,Q2,6.82,0,0,0,0,0,0,0,1,1,2,0,0,0,1,1,20251121
+Hawaii,True,teyahna bond,,Q3,3.03,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,20251121
+Hawaii,True,teyahna bond,,Q4,7.75,3,4,0,0,0,0,6,0,0,0,0,0,0,0,1,20251121
+LMU,False,andjela matic,AM,EOG,36.83,3,11,2,5,1,2,9,0,4,4,0,0,0,1,7,20251121
+LMU,False,andjela matic,AM,Q1,8.08,1,1,0,0,0,0,2,0,3,3,0,0,0,0,1,20251121
+LMU,False,andjela matic,AM,Q2,8.8,1,4,1,2,0,0,3,0,0,0,0,0,0,1,3,20251121
+LMU,False,andjela matic,AM,Q3,9.95,0,2,0,1,0,0,0,0,1,1,0,0,0,0,0,20251121
+LMU,False,andjela matic,AM,Q4,10.0,1,4,1,2,1,2,4,0,0,0,0,0,0,0,3,20251121
+LMU,False,carly heidger,CH,EOG,24.83,1,4,1,3,1,3,4,1,2,3,0,0,0,0,6,20251121
+LMU,False,carly heidger,CH,Q1,4.88,0,2,0,1,0,0,0,0,1,1,0,0,0,0,2,20251121
+LMU,False,carly heidger,CH,Q3,9.95,1,1,1,1,0,1,3,0,1,1,0,0,0,0,3,20251121
+LMU,False,carly heidger,CH,Q4,10.0,0,1,0,1,1,2,1,1,0,1,0,0,0,0,1,20251121
+LMU,False,ivana krajina,IK,EOG,30.47,2,8,1,5,0,0,5,0,2,2,0,0,0,1,5,20251121
+LMU,False,ivana krajina,IK,Q1,4.9,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,20251121
+LMU,False,ivana krajina,IK,Q2,8.08,1,2,1,1,0,0,3,0,0,0,0,0,0,0,0,20251121
+LMU,False,ivana krajina,IK,Q3,7.63,0,1,0,1,0,0,0,0,1,1,0,0,0,1,1,20251121
+LMU,False,ivana krajina,IK,Q4,9.85,1,3,0,1,0,0,2,0,1,1,0,0,0,0,4,20251121
+LMU,False,jess lawson,JL,EOG,31.95,5,9,0,1,5,6,15,3,3,6,0,0,0,0,7,20251121
+LMU,False,jess lawson,JL,Q1,5.72,1,2,0,1,3,4,5,0,1,1,0,0,0,0,3,20251121
+LMU,False,jess lawson,JL,Q2,8.28,2,2,0,0,0,0,4,1,1,2,0,0,0,0,2,20251121
+LMU,False,jess lawson,JL,Q3,7.95,1,2,0,0,2,2,4,1,0,1,0,0,0,0,1,20251121
+LMU,False,jess lawson,JL,Q4,10.0,1,3,0,0,0,0,2,1,1,2,0,0,0,0,1,20251121
+LMU,False,kayla jones,KJ,EOG,26.98,2,4,1,2,1,4,6,0,3,3,0,0,0,0,5,20251121
+LMU,False,kayla jones,KJ,Q1,5.25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20251121
+LMU,False,kayla jones,KJ,Q2,9.9,0,1,0,1,1,2,1,0,1,1,0,0,0,0,1,20251121
+LMU,False,kayla jones,KJ,Q3,5.3,1,1,1,1,0,2,3,0,2,2,0,0,0,0,2,20251121
+LMU,False,kayla jones,KJ,Q4,6.53,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,20251121
+LMU,False,lova lagerlid,LL,EOG,14.63,0,3,0,2,0,2,0,2,3,5,0,0,0,0,1,20251121
+LMU,False,lova lagerlid,LL,Q2,6.82,0,1,0,1,0,0,0,0,2,2,0,0,0,0,0,20251121
+LMU,False,lova lagerlid,LL,Q3,4.9,0,2,0,1,0,2,0,2,1,3,0,0,0,0,1,20251121
+LMU,False,mari somvichian,MS,EOG,8.42,0,2,0,2,0,0,0,1,0,1,0,0,0,0,1,20251121
+LMU,False,mari somvichian,MS,Q2,5.33,0,2,0,2,0,0,0,1,0,1,0,0,0,0,1,20251121
+LMU,False,maya hernandez,MH,EOG,28.35,5,14,0,0,2,2,12,3,2,5,0,0,0,4,10,20251121
+LMU,False,maya hernandez,MH,Q1,5.43,1,4,0,0,1,1,3,0,1,1,0,0,0,0,1,20251121
+LMU,False,maya hernandez,MH,Q2,8.28,1,3,0,0,0,0,2,1,0,1,0,0,0,2,2,20251121
+LMU,False,maya hernandez,MH,Q3,8.33,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,20251121
+LMU,False,maya hernandez,MH,Q4,6.3,3,4,0,0,1,1,7,2,1,3,0,0,0,2,4,20251121
+LMU,False,team,,EOG,0.0,0,0,0,0,0,0,0,11,2,13,0,0,0,7,0,20251121
+LMU,False,team,,Q1,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,20251121
+LMU,False,team,,Q2,0.0,0,0,0,0,0,0,0,2,2,4,0,0,0,1,0,20251121
+LMU,False,team,,Q3,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,2,0,20251121
+LMU,False,team,,Q4,0.0,0,0,0,0,0,0,0,4,0,4,0,0,0,3,0,20251121
+LMU,False,zawadi ogot,ZO,EOG,16.05,0,0,0,0,0,0,0,0,2,2,0,0,0,0,2,20251121
+LMU,False,zawadi ogot,ZO,Q1,5.25,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,20251121
+LMU,False,zawadi ogot,ZO,Q2,8.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20251121

@@ -1,0 +1,99 @@
+team,isHome,player,initial,period,MIN,FGM,FGA,3PM,3PA,FTM,FTA,PTS,OREB,DREB,REB,AST,STL,BLK,TO,PF,game_date
+LMU,False,allison clarke,AC,EOG,21.72,0,2,0,2,0,0,0,1,3,4,0,0,0,0,1,20260108
+LMU,False,allison clarke,AC,OT1,4.38,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,20260108
+LMU,False,allison clarke,AC,Q2,5.13,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,20260108
+LMU,False,allison clarke,AC,Q3,7.03,0,1,0,1,0,0,0,1,1,2,0,0,0,0,0,20260108
+LMU,False,andjela matic,AM,EOG,31.23,7,10,4,5,2,2,20,0,0,0,0,0,0,4,4,20260108
+LMU,False,andjela matic,AM,OT1,4.98,0,1,0,0,2,2,2,0,0,0,0,0,0,1,1,20260108
+LMU,False,andjela matic,AM,Q1,5.7,2,2,1,1,0,0,5,0,0,0,0,0,0,1,0,20260108
+LMU,False,andjela matic,AM,Q2,4.78,2,3,2,2,0,0,6,0,0,0,0,0,0,0,2,20260108
+LMU,False,andjela matic,AM,Q3,8.55,1,2,1,2,0,0,3,0,0,0,0,0,0,0,1,20260108
+LMU,False,andjela matic,AM,Q4,7.22,2,2,0,0,0,0,4,0,0,0,0,0,0,2,0,20260108
+LMU,False,carly heidger,CH,EOG,26.35,3,4,0,1,0,0,6,0,2,2,0,0,0,1,2,20260108
+LMU,False,carly heidger,CH,Q1,5.05,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+LMU,False,carly heidger,CH,Q2,5.97,0,1,0,1,0,0,0,0,2,2,0,0,0,0,0,20260108
+LMU,False,carly heidger,CH,Q3,4.38,2,2,0,0,0,0,4,0,0,0,0,0,0,0,0,20260108
+LMU,False,carly heidger,CH,Q4,6.13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,20260108
+LMU,False,ivana krajina,IK,EOG,28.73,4,9,2,3,0,0,10,0,3,3,0,0,0,3,5,20260108
+LMU,False,ivana krajina,IK,Q1,6.55,0,3,0,1,0,0,0,0,1,1,0,0,0,1,2,20260108
+LMU,False,ivana krajina,IK,Q2,8.93,1,3,1,1,0,0,3,0,1,1,0,0,0,0,0,20260108
+LMU,False,ivana krajina,IK,Q3,4.38,1,1,1,1,0,0,3,0,1,1,0,0,0,0,1,20260108
+LMU,False,ivana krajina,IK,Q4,8.27,2,2,0,0,0,0,4,0,0,0,0,0,0,2,2,20260108
+LMU,False,jess lawson,JL,EOG,19.27,3,8,0,0,0,0,6,1,3,4,0,0,0,1,1,20260108
+LMU,False,jess lawson,JL,Q1,4.38,2,3,0,0,0,0,4,0,1,1,0,0,0,1,1,20260108
+LMU,False,jess lawson,JL,Q2,8.13,0,2,0,0,0,0,0,1,1,2,0,0,0,0,0,20260108
+LMU,False,jess lawson,JL,Q3,2.95,1,3,0,0,0,0,2,0,1,1,0,0,0,0,0,20260108
+LMU,False,kayla jones,KJ,EOG,14.38,5,8,0,1,0,0,10,2,1,3,0,0,0,2,4,20260108
+LMU,False,kayla jones,KJ,Q1,4.65,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,20260108
+LMU,False,kayla jones,KJ,Q2,4.48,3,5,0,1,0,0,6,1,0,1,0,0,0,0,1,20260108
+LMU,False,kayla jones,KJ,Q3,3.68,2,2,0,0,0,0,4,0,0,0,0,0,0,1,2,20260108
+LMU,False,kayla jones,KJ,Q4,1.57,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,20260108
+LMU,False,maya hernandez,MH,EOG,27.52,7,14,0,0,7,9,21,4,4,8,0,0,0,3,12,20260108
+LMU,False,maya hernandez,MH,OT1,4.98,0,0,0,0,6,6,6,0,0,0,0,0,0,1,5,20260108
+LMU,False,maya hernandez,MH,Q1,4.88,1,2,0,0,0,0,2,0,1,1,0,0,0,0,1,20260108
+LMU,False,maya hernandez,MH,Q2,2.92,2,6,0,0,1,3,5,4,0,4,0,0,0,1,2,20260108
+LMU,False,maya hernandez,MH,Q3,6.3,1,2,0,0,0,0,2,0,2,2,0,0,0,0,1,20260108
+LMU,False,maya hernandez,MH,Q4,8.43,3,4,0,0,0,0,6,0,1,1,0,0,0,1,3,20260108
+LMU,False,paula reus piza,PR,EOG,28.28,3,9,0,0,2,2,8,2,2,4,0,0,0,0,3,20260108
+LMU,False,paula reus piza,PR,OT1,4.98,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+LMU,False,paula reus piza,PR,Q1,6.82,1,3,0,0,2,2,4,1,0,1,0,0,0,0,2,20260108
+LMU,False,paula reus piza,PR,Q2,6.3,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,20260108
+LMU,False,paula reus piza,PR,Q3,5.6,0,2,0,0,0,0,0,0,2,2,0,0,0,0,1,20260108
+LMU,False,paula reus piza,PR,Q4,4.58,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+LMU,False,team,,EOG,0.0,0,0,0,0,0,0,0,5,1,6,0,0,0,0,0,20260108
+LMU,False,team,,OT1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260108
+LMU,False,team,,Q1,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260108
+LMU,False,team,,Q2,0.0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,20260108
+LMU,False,team,,Q3,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260108
+LMU,False,team,,Q4,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,20260108
+LMU,False,zawadi ogot,ZO,EOG,31.63,1,3,0,0,0,3,2,0,4,4,0,0,0,0,4,20260108
+LMU,False,zawadi ogot,ZO,OT1,4.97,0,1,0,0,0,2,0,0,3,3,0,0,0,0,1,20260108
+LMU,False,zawadi ogot,ZO,Q2,9.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260108
+LMU,False,zawadi ogot,ZO,Q3,7.03,1,1,0,0,0,1,2,0,1,1,0,0,0,0,1,20260108
+LMU,False,zawadi ogot,ZO,Q4,7.22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,bella green,,EOG,16.28,5,7,0,0,5,6,15,1,1,2,0,0,0,4,7,20260108
+Pepperdine,True,bella green,,OT1,4.18,0,1,0,0,1,2,1,0,1,1,0,0,0,2,4,20260108
+Pepperdine,True,bella green,,Q1,1.65,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20260108
+Pepperdine,True,bella green,,Q2,1.92,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,bella green,,Q3,1.35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20260108
+Pepperdine,True,bella green,,Q4,7.18,4,5,0,0,4,4,12,1,0,1,0,0,0,0,2,20260108
+Pepperdine,True,elli guiney,,EOG,42.32,8,13,2,5,4,6,22,0,4,4,0,0,0,0,6,20260108
+Pepperdine,True,elli guiney,,OT1,4.97,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,elli guiney,,Q1,9.8,2,2,0,0,0,0,4,0,2,2,0,0,0,0,0,20260108
+Pepperdine,True,elli guiney,,Q2,9.98,1,3,1,2,3,4,6,0,2,2,0,0,0,0,3,20260108
+Pepperdine,True,elli guiney,,Q3,7.57,1,3,1,2,1,2,4,0,0,0,0,0,0,0,2,20260108
+Pepperdine,True,elli guiney,,Q4,10.0,3,4,0,1,0,0,6,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,ivory finley,,EOG,33.92,3,8,2,4,0,0,8,1,2,3,0,0,0,0,3,20260108
+Pepperdine,True,ivory finley,,OT1,4.98,0,1,0,1,0,0,0,0,2,2,0,0,0,0,2,20260108
+Pepperdine,True,ivory finley,,Q1,4.55,1,1,1,1,0,0,3,1,0,1,0,0,0,0,0,20260108
+Pepperdine,True,ivory finley,,Q2,4.48,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,ivory finley,,Q3,9.98,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,ivory finley,,Q4,9.92,2,3,1,1,0,0,5,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,lina falk,,EOG,40.03,4,8,0,2,2,2,10,1,1,2,0,0,0,4,5,20260108
+Pepperdine,True,lina falk,,OT1,4.98,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,lina falk,,Q1,9.98,1,1,0,0,2,2,4,0,0,0,0,0,0,1,3,20260108
+Pepperdine,True,lina falk,,Q2,8.77,1,3,0,1,0,0,2,0,0,0,0,0,0,1,0,20260108
+Pepperdine,True,lina falk,,Q3,6.97,0,2,0,1,0,0,0,0,1,1,0,0,0,1,0,20260108
+Pepperdine,True,lina falk,,Q4,9.33,1,1,0,0,0,0,2,1,0,1,0,0,0,1,2,20260108
+Pepperdine,True,meghan fiso,,EOG,32.6,4,12,0,1,0,0,8,0,2,2,0,0,0,2,6,20260108
+Pepperdine,True,meghan fiso,,OT1,4.98,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,meghan fiso,,Q1,6.43,3,6,0,1,0,0,6,0,1,1,0,0,0,0,1,20260108
+Pepperdine,True,meghan fiso,,Q2,5.6,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,meghan fiso,,Q3,8.37,0,2,0,0,0,0,0,0,1,1,0,0,0,1,1,20260108
+Pepperdine,True,meghan fiso,,Q4,7.22,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,20260108
+Pepperdine,True,seleh harmon,,EOG,10.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,seleh harmon,,Q2,5.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,shorna preston,,EOG,30.68,4,7,0,0,0,0,8,3,12,15,0,0,0,2,5,20260108
+Pepperdine,True,shorna preston,,OT1,4.82,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20260108
+Pepperdine,True,shorna preston,,Q1,5.58,2,2,0,0,0,0,4,0,2,2,0,0,0,0,0,20260108
+Pepperdine,True,shorna preston,,Q2,8.07,2,3,0,0,0,0,4,2,6,8,0,0,0,1,2,20260108
+Pepperdine,True,shorna preston,,Q3,8.63,0,1,0,0,0,0,0,1,4,5,0,0,0,0,2,20260108
+Pepperdine,True,shorna preston,,Q4,3.58,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20260108
+Pepperdine,True,taija sta. maria,,EOG,27.02,3,6,1,2,0,0,7,0,0,0,0,0,0,3,3,20260108
+Pepperdine,True,taija sta. maria,,Q1,8.17,1,2,0,0,0,0,2,0,0,0,0,0,0,0,1,20260108
+Pepperdine,True,taija sta. maria,,Q2,6.08,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,20260108
+Pepperdine,True,taija sta. maria,,Q3,9.98,2,3,1,1,0,0,5,0,0,0,0,0,0,1,2,20260108
+Pepperdine,True,team,,EOG,0.0,0,0,0,0,0,0,0,4,2,6,0,0,0,0,0,20260108
+Pepperdine,True,team,,Q2,0.0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,20260108
+Pepperdine,True,team,,Q3,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,20260108
+Pepperdine,True,team,,Q4,0.0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,20260108
