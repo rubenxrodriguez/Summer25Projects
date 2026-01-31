@@ -1,0 +1,91 @@
+jerseycolor,Name,gp,pts,ast,reb,fgm,fga,tpm,pts_mean,ast_mean,reb_mean,eFG%
+gray,Zawadi Ogot,1,8,1,5,4,5,0,8.0,1.0,5.0,0.8
+black,Zawadi Ogot,2,11,2,5,5,7,0,5.5,1.0,2.5,0.714
+red,Zawadi Ogot,3,16,0,5,6,13,0,5.33,0.0,1.67,0.462
+blue,Zawadi Ogot,1,4,1,3,2,4,0,4.0,1.0,3.0,0.5
+white,Zawadi Ogot,4,12,4,5,6,11,0,3.0,1.0,1.25,0.545
+white,Paula Reus Piza,2,24,2,10,8,13,2,12.0,1.0,5.0,0.692
+gray,Paula Reus Piza,1,7,2,3,2,6,0,7.0,2.0,3.0,0.333
+red,Paula Reus Piza,1,2,1,4,1,2,0,2.0,1.0,4.0,0.5
+black,Paula Reus Piza,1,0,0,3,0,2,0,0.0,0.0,3.0,0.0
+blue,Maya Hernandez,1,25,3,10,11,19,0,25.0,3.0,10.0,0.579
+white,Maya Hernandez,4,64,5,23,27,50,0,16.0,1.25,5.75,0.54
+gray,Maya Hernandez,1,15,1,3,6,8,0,15.0,1.0,3.0,0.75
+red,Maya Hernandez,3,42,6,14,19,40,0,14.0,2.0,4.67,0.475
+black,Maya Hernandez,2,22,2,10,9,30,0,11.0,1.0,5.0,0.3
+white,Kayla Jones,4,20,6,9,9,14,0,5.0,1.5,2.25,0.643
+black,Kayla Jones,2,6,1,4,2,7,1,3.0,0.5,2.0,0.357
+blue,Kayla Jones,1,2,2,2,1,6,0,2.0,2.0,2.0,0.167
+gray,Kayla Jones,1,2,1,0,1,1,0,2.0,1.0,0.0,1.0
+red,Kayla Jones,3,6,2,5,3,10,0,2.0,0.67,1.67,0.3
+black,Jess Lawson,2,42,4,18,16,33,1,21.0,2.0,9.0,0.5
+white,Jess Lawson,4,66,8,31,17,45,1,16.5,2.0,7.75,0.389
+gray,Jess Lawson,1,13,4,13,4,14,0,13.0,4.0,13.0,0.286
+red,Jess Lawson,3,39,5,19,13,24,0,13.0,1.67,6.33,0.542
+blue,Jess Lawson,1,8,2,6,2,8,1,8.0,2.0,6.0,0.312
+white,Ivana Krajina,4,35,9,10,9,28,5,8.75,2.25,2.5,0.411
+gray,Ivana Krajina,1,7,1,2,3,3,1,7.0,1.0,2.0,1.167
+blue,Ivana Krajina,1,6,1,0,2,4,2,6.0,1.0,0.0,0.75
+red,Ivana Krajina,3,14,8,5,6,13,2,4.67,2.67,1.67,0.538
+black,Ivana Krajina,2,5,4,5,2,10,1,2.5,2.0,2.5,0.25
+white,Carly Heidger,4,38,5,13,11,23,2,9.5,1.25,3.25,0.522
+blue,Carly Heidger,1,8,3,5,3,7,1,8.0,3.0,5.0,0.5
+red,Carly Heidger,3,24,1,11,8,22,5,8.0,0.33,3.67,0.477
+black,Carly Heidger,2,13,0,6,5,15,1,6.5,0.0,3.0,0.367
+gray,Carly Heidger,1,1,3,6,0,7,0,1.0,3.0,6.0,0.0
+red,Andjela Matic,3,36,8,10,12,23,8,12.0,2.67,3.33,0.696
+gray,Andjela Matic,1,10,4,3,4,10,2,10.0,4.0,3.0,0.5
+white,Andjela Matic,4,38,17,16,11,35,5,9.5,4.25,4.0,0.386
+blue,Andjela Matic,1,5,6,4,1,6,0,5.0,6.0,4.0,0.167
+black,Andjela Matic,2,9,2,5,3,14,2,4.5,1.0,2.5,0.286
+black,Allison Clarke,1,7,0,0,2,5,2,7.0,0.0,0.0,0.6
+red,Allison Clarke,1,3,3,2,0,6,0,3.0,3.0,2.0,0.0
+white,Allison Clarke,2,2,2,1,1,9,0,1.0,1.0,0.5,0.111
+
+
+
+jerseycolor,Name,gp,pts,ast,reb,fgm,fga,tpm,pts_mean,ast_mean,reb_mean,eFG%
+blue,Maya Hernandez,1,25,3,10,11,19,0,25.0,3.0,10.0,0.579
+black,Jess Lawson,2,42,4,18,16,33,1,21.0,2.0,9.0,0.5
+white,Jess Lawson,4,66,8,31,17,45,1,16.5,2.0,7.75,0.389
+white,Maya Hernandez,4,64,5,23,27,50,0,16.0,1.25,5.75,0.54
+gray,Maya Hernandez,1,15,1,3,6,8,0,15.0,1.0,3.0,0.75
+red,Maya Hernandez,3,42,6,14,19,40,0,14.0,2.0,4.67,0.475
+red,Jess Lawson,3,39,5,19,13,24,0,13.0,1.67,6.33,0.542
+gray,Jess Lawson,1,13,4,13,4,14,0,13.0,4.0,13.0,0.286
+red,Andjela Matic,3,36,8,10,12,23,8,12.0,2.67,3.33,0.696
+white,Paula Reus Piza,2,24,2,10,8,13,2,12.0,1.0,5.0,0.692
+black,Maya Hernandez,2,22,2,10,9,30,0,11.0,1.0,5.0,0.3
+gray,Andjela Matic,1,10,4,3,4,10,2,10.0,4.0,3.0,0.5
+white,Andjela Matic,4,38,17,16,11,35,5,9.5,4.25,4.0,0.386
+white,Carly Heidger,4,38,5,13,11,23,2,9.5,1.25,3.25,0.522
+white,Ivana Krajina,4,35,9,10,9,28,5,8.75,2.25,2.5,0.411
+red,Carly Heidger,3,24,1,11,8,22,5,8.0,0.33,3.67,0.477
+blue,Carly Heidger,1,8,3,5,3,7,1,8.0,3.0,5.0,0.5
+blue,Jess Lawson,1,8,2,6,2,8,1,8.0,2.0,6.0,0.312
+gray,Zawadi Ogot,1,8,1,5,4,5,0,8.0,1.0,5.0,0.8
+black,Allison Clarke,1,7,0,0,2,5,2,7.0,0.0,0.0,0.6
+gray,Ivana Krajina,1,7,1,2,3,3,1,7.0,1.0,2.0,1.167
+gray,Paula Reus Piza,1,7,2,3,2,6,0,7.0,2.0,3.0,0.333
+black,Carly Heidger,2,13,0,6,5,15,1,6.5,0.0,3.0,0.367
+blue,Ivana Krajina,1,6,1,0,2,4,2,6.0,1.0,0.0,0.75
+black,Zawadi Ogot,2,11,2,5,5,7,0,5.5,1.0,2.5,0.714
+red,Zawadi Ogot,3,16,0,5,6,13,0,5.33,0.0,1.67,0.462
+white,Kayla Jones,4,20,6,9,9,14,0,5.0,1.5,2.25,0.643
+blue,Andjela Matic,1,5,6,4,1,6,0,5.0,6.0,4.0,0.167
+red,Ivana Krajina,3,14,8,5,6,13,2,4.67,2.67,1.67,0.538
+black,Andjela Matic,2,9,2,5,3,14,2,4.5,1.0,2.5,0.286
+blue,Zawadi Ogot,1,4,1,3,2,4,0,4.0,1.0,3.0,0.5
+white,Zawadi Ogot,4,12,4,5,6,11,0,3.0,1.0,1.25,0.545
+black,Kayla Jones,2,6,1,4,2,7,1,3.0,0.5,2.0,0.357
+red,Allison Clarke,1,3,3,2,0,6,0,3.0,3.0,2.0,0.0
+black,Ivana Krajina,2,5,4,5,2,10,1,2.5,2.0,2.5,0.25
+red,Kayla Jones,3,6,2,5,3,10,0,2.0,0.67,1.67,0.3
+blue,Kayla Jones,1,2,2,2,1,6,0,2.0,2.0,2.0,0.167
+gray,Kayla Jones,1,2,1,0,1,1,0,2.0,1.0,0.0,1.0
+red,Paula Reus Piza,1,2,1,4,1,2,0,2.0,1.0,4.0,0.5
+white,Allison Clarke,2,2,2,1,1,9,0,1.0,1.0,0.5,0.111
+gray,Carly Heidger,1,1,3,6,0,7,0,1.0,3.0,6.0,0.0
+black,Paula Reus Piza,1,0,0,3,0,2,0,0.0,0.0,3.0,0.0
+
+

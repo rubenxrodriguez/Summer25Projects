@@ -1,0 +1,16 @@
+jerseycolor,Name,gp,pts,ast,reb,fgm,fga,tpm,pts_mean,ast_mean,reb_mean,eFG%
+blue,Maya Hernandez,3,64,6,26,25,47,0,21.33,2.0,8.67,0.532
+red,Maya Hernandez,6,98,9,34,41,78,0,16.33,1.5,5.67,0.526
+gray,Maya Hernandez,1,15,1,3,6,8,0,15.0,1.0,3.0,0.75
+white,Maya Hernandez,5,72,6,29,30,59,0,14.4,1.2,5.8,0.508
+black,Maya Hernandez,4,44,5,15,19,56,0,11.0,1.25,3.75,0.339
+black,Jess Lawson,4,70,9,35,25,52,1,17.5,2.25,8.75,0.49
+blue,Jess Lawson,3,50,7,21,17,40,1,16.67,2.33,7.0,0.438
+white,Jess Lawson,5,80,8,47,21,59,4,16.0,1.6,9.4,0.39
+red,Jess Lawson,6,80,9,37,29,65,1,13.33,1.5,6.17,0.454
+gray,Jess Lawson,1,13,4,13,4,14,0,13.0,4.0,13.0,0.286
+red,Andjela Matic,6,66,18,19,22,54,14,11.0,3.0,3.17,0.537
+gray,Andjela Matic,1,10,4,3,4,10,2,10.0,4.0,3.0,0.5
+black,Andjela Matic,4,36,10,11,12,33,7,9.0,2.5,2.75,0.47
+white,Andjela Matic,5,44,21,19,13,50,7,8.8,4.2,3.8,0.33
+blue,Andjela Matic,3,26,11,13,7,28,5,8.67,3.67,4.33,0.339
